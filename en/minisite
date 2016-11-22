@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    
+        <link rel="stylesheet" href="/css/inpost-ca.min-57266f8.css" />
+
+    </head>
+<body class="lp-2">
+
+<div class="wrapper">
+    <!--header-->
+    <header>
+        <div class="centered">
+            <div class="logo"><a href="https://inpost24.ca" target="_blank"><img src="/images/minisite/logo-8a51e99.png" alt="Inpost"/></a></div>
+            <div class="text"><h1>Pick up your parcel at your convenience
+                <br/>
+            <span>with an InPost Locker 24/7</span></h1></div>
+        </div>
+    </header>
+    <!--main-->
+    <main id="content">
+        <!--content top-->
+        <section class="top">
+            <div class="centered">
+                <div class="with-cta">
+                    <h2> As simple as using an ATM!</h2>
+                    <p >Open your InPost Locker with a unique <br/>
+                        opening code sent by a text message</p>
+                    <ul class="list">
+                        <li><strong>Available 24/7</strong></li>
+                        <li><strong>No more missed deliveries or lining up</strong> <br/>for your parcels</li>
+                        <li>Our prices will make you smile</li>
+                        <li>Easy access to track your parcel’s journey</li>
+                    </ul>
+                    <p>It’s fun, quick and so simple!</p>
+
+                    <a class="btn gold" href="https://inpost24.ca/en/for-you/why-are-we-preferred-by-e-shoppers" target="_blank">Find out more</a>
+                </div>
+            </div>
+        </section>
+        <section class="center">
+            <div class="centered-m">
+
+                <div class="message">
+                    <h2>How does <br/>
+                        <strong>convenience</strong> <br/>
+                        work?</h2>
+                </div>
+                <ul class="inline-list">
+                    <li>
+                        <div class="img-wrap">
+                            <div class="img sprite-step-1 sprite"></div>
+                        </div>
+                        <span>Shop online.</span>
+                    </li>
+                    <li>
+                        <div class="img-wrap">
+                            <div class="img sprite-step-2 sprite"></div>
+                        </div>
+                        <span>Select your nearest <br/>InPost Locker 24/7.</span>
+                    </li>
+                    <li>
+                        <div class="img-wrap">
+                            <div class="img sprite-step-3 sprite"></div>
+                        </div>
+                        <span>Track your parcel’s <br/>journey on <br/>inpost24.ca</span>
+                    </li>
+                    <li>
+                        <div class="img-wrap">
+                            <div class="img sprite-step-4 sprite"></div>
+                        </div>
+                        <span>Receive text message <br/>and email with <br/>collection code.</span>
+                    </li>
+                    <li>
+                        <div class="img-wrap">
+                            <div class="img sprite-step-5 sprite"></div>
+                        </div>
+                        <span>Pick up your <br/>parcel from <br/>the locker, anytime!</span>
+                    </li>
+                </ul>
+
+            </div>
+        </section>
+        <section class="bottom">
+            <div class="centered">
+                <div class="with-cta">
+                    <h3>Where’s your <br/>
+                        nearest locker?</h3>
+                    <p class="message">
+                        Our network is continually growing and we plan to have <strong>1,000 lockers nationwide</strong>, so there’ll always be one close to you.
+                        <br/><br/>
+                        Our lockers can be found along your daily route when you go to work, go shopping or simply on your way back home. <strong>They are located at shopping centres, gas stations, and bus or
+                        <br/> train stations.</strong>
+                    </p>
+
+                    <a class="btn gold" href="https://inpost24.ca/en/for-you/where-is-your-locker" target="_blank">
+                        find your nearest inpost location
+                    </a>
+                </div>
+                <!--map-->
+                <div class="with-map">
+                    <img src="/images/minisite/map-58f9087.png" alt="Map"/>                </div>
+                <div class="call-us">
+                    <div class="wrap">
+                        <span>Give us a call!</span>
+                        <div class="number">
+                            <span>1-84-GO-INPOST</span>
+                        </div>
+                        <br/>
+                    <span class="italics">Phone calls are charged</span><br/>
+                        <span class="italics">at your operator's rates.</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="centered">
+                <div class="wrap">
+                    <ul class="socials">
+                        <li class="facebook"><a href="https://www.facebook.com/inpostcanadainc" target="_blank"><img src="/images/minisite/facebook-63d33a4.png" alt=""/></a></li>
+                        <li class="google"><a href="https://plus.google.com/+InPostCanadaInc/about" target="_blank"><img src="/images/minisite/google-b773f1d.png" alt=""/></a></li>
+                        <li class="twitter"><a href="https://twitter.com/InPostCanada" target="_blank"><img src="/images/minisite/twitter-165ba70.png" alt=""/></a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <!--footer-->
+    <footer>
+        <div class="centered">
+            <a class="link" href="https://inpost24.ca" target="_blank">
+                inpost24.ca
+            </a>
+            <img src="/images/minisite/simply_logo-691b5ef.png" alt="Simply exciting"/>        </div>
+    </footer>
+
+</div>
+
+</body>
+</html>

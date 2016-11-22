@@ -1,0 +1,981 @@
+       <!DOCTYPE html>
+<html lang="fr-CA">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en"/>
+    <meta name="author" content="InPost Canada" />
+    <meta name="designer" content="InPost Canada" />
+    <meta name="copyright" content="InPost Canada" />
+    
+                                        <title>Foire aux questions - InPost Canada</title>
+        <meta name="description" content="The new and convenient way to collect your online shopping from a network of automated self-service parcel lockers 24/7" />
+        
+    
+        
+            <link rel="stylesheet" href="/css/inpost-ca.min-5589a4e.css" />
+
+        
+    
+    <link rel="shortcut icon" href="/favicon.ico?v=2" />
+    
+    
+        <script src="/js/inpost-ca.min-f074fc4.js"></script>
+
+        
+    <script type="text/javascript">
+                    var played = 1;
+            </script>
+    <style>
+            </style>
+</head>
+
+<body class="" >
+
+<div  id="wrap" class="underHandF" >
+
+    <!-- HEADER -->
+            <div class="container-fluid " id="header-container">
+            <div class="row-fluid" id="header-bg"></div>
+            <div class="row-fluid" id="header">
+                <div class="span12">
+                    <div class="container">
+
+                        <!-- MENU -->
+                        <div class="row" id="">
+                            <div class="span2 logo">
+
+                                                                                                <a href="/fr" id="logo">
+                                                                                                                                                                            <img src="/images/logo-noclaim-e8cb780.png" alt="logo"/>                                                                                            </a>
+                            </div>
+
+                            <div class="span10 headercontent">
+                                <div class="pull-right choose-language">
+                                                                            <a class="btn btn-primary btn-small" href="/">ENGLISH</a>
+                                                                    </div>
+                                <div class="menu-switch">
+                                    
+<ul class="nav nav-pills  lang-fr">
+                                                            
+                                                                                                                                                                                                                                                                            <li id="mm53"
+                >
+                <a href=/fr target="_self"><span class="maintitle">Pour </span><span class="subtitle">vous </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                        <li id="mm65"
+                >
+                <a href=/fr/pour-les-entreprises target="_self"><span class="maintitle">Pour </span><span class="subtitle">les entreprises </span></a>
+            </li>
+            </ul>                                    <ul class="nav nav-pills track">
+                                                                                    <li class=""><a href="/fr/suivi-du-colis"><span>Suivi du colis</span></a></li>
+                                                                            </ul>
+                                </div>
+
+                                <div class="menu-main">
+                                    
+<ul class="nav nav-pills  lang-fr">
+                                
+                                                                                                                                                                                                                                                                                                                                                                    <li id="mm90"
+                >
+                <a href=/fr/pour-vous/pourquoi-choisir-l-option-inpost target="_self"><span class="maintitle">POURQUOI </span><span class="subtitle">choisir l'option InPost? </span></a>
+            </li>
+                                                                    
+                                                                                                                                                                                                                                                                                                                        <li id="mm54"
+                >
+                <a href=/fr/pour-vous/comment-ca-marche/reception target="_self"><span class="maintitle">COMMENT </span><span class="subtitle">ça marche? </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li id="mm60"
+                >
+                <a href=/fr/pour-vous/ou-est-le-distributeur-de-colis target="_self"><span class="maintitle">Où </span><span class="subtitle">est le distributeur de colis? </span></a>
+            </li>
+            </ul>                                </div>
+                            </div>
+                        </div> <!-- END MENU -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- SUBMENU -->
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="container">
+                        <div class="row" id="submenu">
+                            <div class="span10 offset2">
+                                <div class="menu-sub">
+                                    
+<ul class="nav nav-pills  lang-fr">
+    </ul>                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- END SUBMENU -->
+        </div> <!-- END HEADER -->
+    
+                
+    <!-- CONTENT -->
+    <div class="container   "  id="main-container" >
+        <div id="contentwrapper">
+                <div class="" id="" >
+            <div class="row" id="content">
+
+               <div class="span12" id="narrow-content">
+        
+            
+    <div class="row faq">
+        <div class="span12 centered">
+
+                        <h1>Vous avez des questions? <span class="subtitle">Nous avons les r&eacute;ponses! Recherchez votre question ci-dessous</span></h1>
+            
+                                                                            
+            <ul class="btn-set" id="nav-faq">
+
+                                        <li><a class="btn btn-inverse" href="#faq_rception" data-toggle="tab">Réception</a></li>
+                                        <li><a class="btn btn-inverse" href="#faq_informations-gnrales" data-toggle="tab">Informations générales</a></li>
+                                        <li><a class="btn btn-inverse" href="#faq_expdition" data-toggle="tab">Expédition</a></li>
+                                        <li><a class="btn btn-inverse" href="#faq_clients-professionnels" data-toggle="tab">Clients professionnels</a></li>
+                                        <li><a class="btn btn-inverse" href="#faq_sites-htes" data-toggle="tab">Sites hôtes</a></li>
+                                            </ul>
+        </div>
+    </div>
+
+
+    <div class="tab-content">
+        
+            <div class="row faq tab-pane" id="faq_rception">
+                <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception0" data-toggle="collapse" data-parent="#faq_rception">
+                                Quels objets peuvent être envoyés via InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception0">
+                            Tous les objets qui ne sont pas interdites par la loi ou les règlements internes de l'entreprise. La liste des objets interdits peut être trouvée à <a href="/fr/information">Information</a> section.<br/> Les colis doivent également avoir un poids  (pas de poids minimum, poids maximum - 20 kg) et une taille appropriés (taille A: 80 x 380 x 640 mm, taille B: 190 x 380 x 640 mm, la taille de C: 380 x 380 x 640 mm) et doivent être emballés d'une manière appropriée.</div>
+                    </div>
+                                                            <div class="faq-l"><span>2.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception1" data-toggle="collapse" data-parent="#faq_rception">
+                                Dois-je m&#039;inscrire en ligne pour recevoir mes colis des distributeurs InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception1">
+                            Non, nous allons utiliser vos coordonnées indiquées dans le processus de commande en magasin. Les deux systèmes seront intégrés et nous aurons besoin de votre adresse e-mail et votre numéro de téléphone portable.</div>
+                    </div>
+                                                            <div class="faq-l"><span>3.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception2" data-toggle="collapse" data-parent="#faq_rception">
+                                Comment vais-je savoir quand je peux ramasser mon colis dans un distributeur InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception2">
+                            Lorsque votre colis est mis dans un distributeur InPost, vous recevez immédiatement un SMS et / ou un e-mail avec cette information. Le message contient votre numéro de colis, l'adresse du distributeur InPost et le code pour recevoir le colis. Cela peut être un code numérique ou un code QR. Le code QR permet une réception très rapide.</div>
+                    </div>
+                                                            <div class="faq-l"><span>4.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception3" data-toggle="collapse" data-parent="#faq_rception">
+                                Quel est le délai pour ramasser le colis du distributeur InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception3">
+                            Les colis sont stockés dans le distributeur InPost pendant 3 jours, ou 72 heures de la réception par vous du SMS et/ou de l'e-mail.</div>
+                    </div>
+                                                            <div class="faq-l"><span>5.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception4" data-toggle="collapse" data-parent="#faq_rception">
+                                Vais-je recevoir un rappel de la réception du colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception4">
+                            A la fin du deuxième jour de l'ent ouvrable après la livraison du colis au distributeur  InPost (après 48 heures), vous recevrez un SMS et un e-mail vous indiquant que vousn'avez que 24 heures pour ramasser le colis.</div>
+                    </div>
+                                    </div><div class="span6">
+                                                            <div class="faq-l"><span>6.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception5" data-toggle="collapse" data-parent="#faq_rception">
+                                Quand les colis, sont-ils retournés aux expéditeurs?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception5">
+                            Les colis sont stockés dans les distributeurs InPost pendant 3 jours, puis ils sont renvoyés à l'expéditeur. Les frais de leur retour sont à la charge de l'expéditeur.</div>
+                    </div>
+                                                            <div class="faq-l"><span>7.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception6" data-toggle="collapse" data-parent="#faq_rception">
+                                Mon colis, peut-il être ramassé par une autre personne qui a le code de réception?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception6">
+                            La personne que vous demandez de ramasser votre colis doit avoir à la fois le code <strong>code</strong> que vous avez reçu dans le SMS / l'e-mail et votre numéro de téléphone portable <strong>your mobile number</strong>. Dans ce cas, vous êtes responsable de fournir les informations sur la livraison à un tiers qui recevra votre colis pour vous.</div>
+                    </div>
+                                                            <div class="faq-l"><span>8.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception7" data-toggle="collapse" data-parent="#faq_rception">
+                                Comment puis-je suivre mon colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception7">
+                            Vous pouvez suivre votre colis, en utilisant le lien <a href="/fr/suivi-du-colis">Suivi du colis</a> qui se trouve sur la page d'accueil. Il suffit d'entrer le numéro de colis que vous avez reçu via SMS/e-mail.</div>
+                    </div>
+                                                            <div class="faq-l"><span>9.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_rception8" data-toggle="collapse" data-parent="#faq_rception">
+                                Combien de temps pris la livraison de mon colisau distributeur InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_rception8">
+                            Le délai standard de livraison  est le jour ouvrable suivant après l'envoi ducolis. Les colis peuvent être suivis sur notre site pour voir exactement où ils sont à un moment donné.</div>
+                    </div>
+                                        
+
+                </div>
+            </div>
+
+
+        
+            <div class="row faq tab-pane" id="faq_informations-gnrales">
+                <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales0" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                InPost ? C&#039;est quoi ?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales0">
+                            InPost est un système de distributeurs de colis "cliquez et collectez" qui fonctionne comme un guichet automatique classique. Avec ces appareils, vous pouvez récevoir les livraisons quand vous le souhaitez et où vous voulez. Pas de file d'attente à la Poste ni de temps perdu à gueter le coursier ! Les abricolis sont accessibles 24 heures par jour, 7 jours par semaine!</div>
+                    </div>
+                                                            <div class="faq-l"><span>2.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales1" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Pourquoi l&#039;utilisation des distributeurs de colis InPost de type &quot;cliquez et collectez&quot; est-elle avantageuse?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales1">
+                            Parce qu'ils sont faciles à utiliser ! A vous de choisir le lieu et le moment où vous souhaitez expédier ou collecter vos colis. Les Abricolis InPost sont accessibles 24/7 et récupérer un colis ne prend que 7 secondes! Vous pouvez également suivre à distance le trajet de votre colis, de son expédition à son arrivée dans un casier, sans vous préoccuper de rien ni vous rendre où que ce soit.</div>
+                    </div>
+                                                            <div class="faq-l"><span>3.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales2" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Comment les distributeurs de colis InPost de type &quot;cliquez et collectez&quot; fonctionnent-ils?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales2">
+                            InPost fera l'intégration avec les vendeurs online de sorte que vos magasins préférés proposent l'option de livraison InPost. Passez commande, sélectionnez les distributeurs InPost comme option de livraison et choisissez le distributeur le plus proche de chez vous. Votre commande sera livrée à l'Abricolis de votre choix et vous recevrez un SMS ainsi qu'un mail contenant  un code d'ouverture exclusif. Vous pourrez alors récupérer votre colis à tout moment : les distributeurs sont ouverts 24/7!</div>
+                    </div>
+                                                            <div class="faq-l"><span>4.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales3" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Avec quels vendeurs InPost coopère-t-il?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales3">
+                            Pour le savoir, rendez-vous sur notre site dédié Retail Partners.</div>
+                    </div>
+                                                            <div class="faq-l"><span>5.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales4" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Où se trouvent les distributeurs de colis InPost de type &quot;cliquez etcollectez&quot;?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales4">
+                            Les distributeurs de colis InPost sont situés dans les endroits permettant un accès permanent et garantissant une sécurité maximale, près des centres commerciaux et des stations essence par exemple. Vous pouvez vérifier l'emplacement du ditributeur de colis le plus proche  <a href="/fr/pour-vous/ou-est-le-distributeur-de-colis">sur le site</a>.</div>
+                    </div>
+                                    </div><div class="span6">
+                                                            <div class="faq-l"><span>6.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales5" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Quel est le poids minimal et maximal admissible du colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales5">
+                            Il n'y a pas de poids minimum. En revanche, un colis ne doit pas dépasser les 20 kg.</div>
+                    </div>
+                                                            <div class="faq-l"><span>7.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales6" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Quels sont les objets qui ne peuvent pas être envoyés via des distributeurs de colis InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales6">
+                            Il est interdit d'envoyer les objets suivants: <ul><li>argent, </li><li>titres de valeur, </li><li>objets de valeur (bijoux, antiquités, œuvres d'art, etc.), </li><li>armes, munitions et autres explosifs ou inflammables qui pourraient constituer une menace pour la vie ou la santé, ainsi que causer des dommages matériels, </li><li>stupéfiants et substances psychotropes, </li><li>articles ayant une courte durée de vie ou nécessitant un transport spécial, </li><li>animaux et plantes, </li><li>ainsi que d'autres choses dont le transport est interdit en vertu des lois. </li></ul>Aussi : liquides, gaz, articles délicats et fragiles. La liste ci-dessus n'est pas exhaustive et la société InPost se réserve le droit de refuser d'envoyer des colis contenant d'autres objets dangereux.La liste complète des articles interdits est fournie dans nos  <a href="/fr/t-c" target="_blank">Termes et Conditions</a>.</div>
+                    </div>
+                                                            <div class="faq-l"><span>8.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales7" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                A quelle fréquence les colis sont-ils livrés aux distributeurs InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales7">
+                            Les colis sont livrés aux distributeurs InPost durant les heures de travail.</div>
+                    </div>
+                                                            <div class="faq-l"><span>9.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales8" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Est-il possible de placer deux colis dans un même coffre?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales8">
+                            Non, un coffre abrite uniquement un colis. Cependant, vous pouvez tout à fait envoyer plusieurs colis en même temps. C'est rapide et facile : vous n'avez qu'à imprimer les étiquettes pour tous les colis envoyés et donner ces derniers à notre coursier. Chaque colis sera ensuite placé dans un coffre différent .</div>
+                    </div>
+                                                            <div class="faq-l"><span>10.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_informations-gnrales9" data-toggle="collapse" data-parent="#faq_informations-gnrales">
+                                Comment puis-je choisir le distributeur de colis InPost le plus pratique pour moi?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_informations-gnrales9">
+                            Vous pouvez sélectionner le distributeur de colis InPost de votre choix lors de votre commande en ligne dans les magasins partenaires.</div>
+                    </div>
+                                        
+
+                </div>
+            </div>
+
+
+        
+            <div class="row faq tab-pane" id="faq_expdition">
+                <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition0" data-toggle="collapse" data-parent="#faq_expdition">
+                                Qui peut expédier des colis par le système de distributeurs de colis InPost de type «cliquez et ramassez»?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition0">
+                            Ce service est disponible pour les entreprises intégrés au système InPost et pour les clients individuels. Pour envoyer un colis v,ous devez créer un compte dans le <a href="https://pm.inpost24.ca/login?lang=ca_fr">Gestionnaire de Colis</a>.</div>
+                    </div>
+                                                            <div class="faq-l"><span>2.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition1" data-toggle="collapse" data-parent="#faq_expdition">
+                                Comment envoyer des colis via le système InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition1">
+                            <strong>1.Préparer votre colis à l'expédition. </strong> <br/>Si vous envoyez un minimum de 10 colis, enregistrez-les dans le <a href="https://pm.inpost24.ca/login?lang=ca_fr">Gestionnaire de Colis</a>. Si vous envoyez un grand nombre de colis, intégrez-nous  afin d'automatiser entièrement le processus d'expédition. <a href="/fr/contactez-nous">Contactez-nous</a> pour savoir comment envoyer facilement vos colis. Imprimez l'étiquette. </strong><br/> Avant d'envoyer le colis, vous devez connaître l'adresse postale, l'adresse e-mail et le numéro de téléphone du destinataire, de sorte que nous puissions l'informer de la livraison. Ensuite, sélectionnez le distributeur de colis InPost auquel la livraison doit être effectuée et la taille du colis et imprimez l'étiquette qui doit être posé sur le colis envoyé <br/><strong>3. Donnez le colis au courrier  </strong><br/> Collez une étiquette sur le colis et donnez-le au courrier. Nous allons organiser une réception régulière de vos colis par le courrier, si nécessaire, même tous les jours.<br/> Si vous voulez vérifier où votre colis se trouve, cliquez sur <a href="/fr/suivi-du-colis
+">Suivez votre colis</a>. Dès que le colis arrive au distributeur de colis sélectionnée, le destinataire recevra un avis. C'est aussi simple que cela!</div>
+                    </div>
+                                                            <div class="faq-l"><span>3.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition2" data-toggle="collapse" data-parent="#faq_expdition">
+                                Combien de temps ai-je pour livrer un colis au distributeur InPost après la génération de l&#039;étiquette d&#039;expédition?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition2">
+                            Chaque étiquette créée est valable pendant 48 heures. Passé ce délai, vous ne pouvez pas mettre le colis dans le distributeur InPost.</div>
+                    </div>
+                                                            <div class="faq-l"><span>4.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition3" data-toggle="collapse" data-parent="#faq_expdition">
+                                Quand serai-je facturé pour la livraison du colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition3">
+                            Le paiement est débité de votre compte au moment de la création de l'étiquette.</div>
+                    </div>
+                                    </div><div class="span6">
+                                                            <div class="faq-l"><span>5.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition4" data-toggle="collapse" data-parent="#faq_expdition">
+                                Combien ça coûte?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition4">
+                            Le prix dépend du nombre de colis envoyés par mois. Notre objectif est de fournir les prix les plus bas pour la liraison le jour ouvrable suivant. L'expédition de colis via notre <a href="https://pm.inpost24.ca/login?lang=ca_fr">Gestionnaire de Colis</a> coûte à partir  de 4,50 € par colis jusqu'à 20 kg.</div>
+                    </div>
+                                                            <div class="faq-l"><span>6.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition5" data-toggle="collapse" data-parent="#faq_expdition">
+                                Qu&#039;est-ce qui se passe si le destinataire ne ramasse pas le colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition5">
+                            Si le destinataire ne ramasse pas le colis dans les 3 jours suivant la notification, le colis sera retourné à l'expéditeur qui sera chargé de l'équivalent du coût d'envoi du colis.</div>
+                    </div>
+                                                            <div class="faq-l"><span>7.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition6" data-toggle="collapse" data-parent="#faq_expdition">
+                                Quand les colis, sont-ils retournés aux expéditeurs?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition6">
+                            Les colis sont stockés dans le distributeur InPost pendant 3 jours. Si le destinataire ne les reçoit pas après ce délai, ils seront retournés à l'expéditeur.</div>
+                    </div>
+                                                            <div class="faq-l"><span>8.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_expdition7" data-toggle="collapse" data-parent="#faq_expdition">
+                                Quelles sont les domensions des coffres?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_expdition7">
+                            Nous vous proposons trois dimensions des coffres. Petit: 8 cm (hauteur) x 38 cm (largeur) x 64 cm (longueur); moyen: 19 cm (hauteur) x 38 cm (largeur) x 64 cm (longueur); grand: 38 cm (hauteur ) x 36 cm (largeur) x 62 cm (longueur). Plus d'informations sur les tailles des coffres peuvent être trouvées <a href="/fr/pour-les-entreprises/comment-ca-marche/expedition">ici</a>.</div>
+                    </div>
+                                        
+
+                </div>
+            </div>
+
+
+        
+            <div class="row faq tab-pane" id="faq_clients-professionnels">
+                <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels0" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Quels services fournissez-vous?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels0">
+                            Nous fournissons les services de type "cliquez et ramassez" à l'aide de nos distributeurs de colis InPost. Notre courrier ramassera le colis et le livrera à un coffre InPost  choisi par votre client. Les clients peuvent ramasser les colis 24 heures par jour, 7 jours par semaine.</div>
+                    </div>
+                                                            <div class="faq-l"><span>2.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels1" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Quelle est la différence entre InPost et les autres fournisseurs?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels1">
+                            Pas de files d'attente, réception en 7 secondes, commodité pour les clients ! Nos coffres sont situés à l'extérieur, près des endroits très fréquentés tels que supermarchés, centres commerciaux et stations d'essence. En conséquence, les colis peuvent être reçus 24 heures par jour, 7 jours par semaine ! Notre objectif est de mettre 2 000 terminaux de InPost à travers le pays, ce qui nous rendra le plus grand réseau de ce type Offrez à vos clients la commodité qu'ils attendent.</div>
+                    </div>
+                                                            <div class="faq-l"><span>3.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels2" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment commencer l&#039;aventure avec InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels2">
+                            Voulez-vous envoyer le colis de manière pratique? Créez un compte dans le <a href="https://pm.inpost24.ca/login?lang=ca_fr">Gestionnaire de Colis</a> et ensuite intégrez votre société avec le système InPost. Pour commencer à travailler avec nous, vous pouvez contacter notre représentant des ventes: <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a>.</div>
+                    </div>
+                                                            <div class="faq-l"><span>4.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels3" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Qu&#039;est-ce que l&#039;intégration?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels3">
+                            L'intégration est un processus qui vous permettra d'offrir InPost sur ​​le site de votre boutique en ligne. C'est un processus très simple qui consiste à copier et coller quelques lignes de code sur votre site, ou qui peut être effectué par votre fournisseur actuel de plate-forme e-commerce <a href="/fr/contactez-nous">Contactez notre équipe</a> et nous allons vous expliquer le processus entier étape par étape.</div>
+                    </div>
+                                                            <div class="faq-l"><span>5.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels4" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Dois-je apporter des modifications à mon site Web?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels4">
+                            <strong> Bien sûr que non.</strong> L'intégration de votre site Web avec nos systèmes est un processus rapide. Après avoir effectué les réglages appropriés pour répondre à vos besoins changeants, vous n'avez pas à faire autre chose. <br/> Les avantages sont beaucoup plus grands que le  processus rapide et facile de l'intégration initiale et </strong> si nécessaire, nous pouvons vous aider à l'effectuer.</div>
+                    </div>
+                                                            <div class="faq-l"><span>6.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels5" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Mon entreprise n&#039;est pas intéressée. Puis-je envoyer des colis via InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels5">
+                            <strong> Oui.</strong> L'utilisation des services des distributeurs de colis InPost est possible, même si vous vendez des articles sur les enchères en ligne.</div>
+                    </div>
+                                                            <div class="faq-l"><span>7.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels6" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment puis-je contacter le représentant des ventes InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels6">
+                            Il suffit de remplir le <a href="/fr/contactez-nous">formulaire de contact</a> ou envoyer un e-mail directement à <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a></div>
+                    </div>
+                                                            <div class="faq-l"><span>8.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels7" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Combien ça coûte?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels7">
+                            L'intégration est totalement gratuite. Le coût d'expédition dépend du nombre de colis envoyés par mois et du type de service. Notre objectif est de fournir les prix les plus bas pour les livraisons le jour ouvrable suivant. Plus de colis plus d'escompte nous pouvons offrir. <a href="/fr/contactez-nous">Contactez-nous</a> et faites-nous savoir combien de colis vous envoyez chaque mois.</div>
+                    </div>
+                                                            <div class="faq-l"><span>9.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels8" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment puis-je expédier les colis à travers InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels8">
+                            Nous vous proposons deux façons d'expédier les colis : réception par nous ou expédition 24/7. Vous pouvez choisir la façon qui vous convient le mieux.<br/><br/><h3>Option de réception par nous:</h3><strong>1.Préparer votre colis à l'expédition.</strong><br/>Si vous envoyez un minimum de 10 colis, enregistrez-les dans <a href="https://pm.inpost24.ca/login?lang=ca_fr">le Gestionnaire de Colis</a>. Si vous envoyez un grand nombre de colis, intégrez-nous afin d'automatiser entièrement le processus d'expédition. <a href="/fr/contactez-nous?ref=startup">Contactez-nous</a> pour savoir comment envoyer facilement vos colis. Imprimez l'étiquette <br/><strong>2. Avant d'envoyer le colis,</strong><br/> vous devez connaître l'adresse postale, l'adresse e-mail et le numéro de téléphone du destinataire, de sorte que nous puissions l'informer de la livraison. Ensuite, sélectionnez le distributeur de colis InPost auquel la livraison doit être effectuée et la taille du colis et imprimez l'étiquette qui doit être posé sur le colis envoyé.<br/><strong>3. Donnez le colis au courrier</strong><br/>Collez une étiquette sur le colis et donnez-le au courrier. Nous allons organiser une réception régulière de vos colis par le courrier, si nécessaire, même tous les jours.<br/><br/>Si vous voulez vérifier où votre colis se trouve, cliquez sur <a href=/fr/suivi-du-colis>Suivez votre colis</a>. Dès que le colis arrive au distributeur de colis sélectionnée, le destinataire recevra un avis. C'est aussi simple que cela!</div>
+                    </div>
+                                                            <div class="faq-l"><span>10.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels9" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment InPost API peut m&#039;aider?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels9">
+                            API ou l'Interface de programmation de l'application assure la compatibilité entre l'expéditeur et InPost. Avec l'API, vous pouvez facilement ajouter l'option d'expédition via InPost.</div>
+                    </div>
+                                                            <div class="faq-l"><span>11.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels10" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment installer InPost API?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels10">
+                            Télécharger les documents du site How to integrate. Ensuite, <a href="/fr/contactez-nous?ref=startup">contactez-nous.</a> Nos professionnels de l'informatique sont à votre disposition, et nos représentants de ventes vous fourniront toutes les informations nécessaires.</div>
+                    </div>
+                                                            <div class="faq-l"><span>12.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels11" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment signaler les plaintes concernant les livraisons?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels11">
+                            Contactez-nous à l'adresse <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a> et donnez une brève description de la situation (précisez le coffre InPost choisi, la date d'incident, etc.) ou contactez notre support technique (Helpdesk) au numéro 1-84-GO-INPOST.</div>
+                    </div>
+                                    </div><div class="span6">
+                                                            <div class="faq-l"><span>13.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels12" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Que dois-je faire si le coffre ne s&#039;ouvre pas après avoir entré le code?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels12">
+                            Vérifiez si les données entrées sont correctes. Si cela n'aide pas, contactez notre support technique (Helpdesk) au numéro 1-84-GO-INPOST. Le service Helpdesk est disponible 24/7.</div>
+                    </div>
+                                                            <div class="faq-l"><span>14.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels13" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Pourquoi je n&#039;ai pas reçu le SMS/l&#039;e-mail informant sur la livraison du colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels13">
+                            Si vous ne recevez pas le message texte informant sur la livraison du colis au coffre InPost, cela peut signifier que le numéro de téléphone portable indiqué n'est pas correct. Si vous ne recevez pas l'e-mail, il se peut que votre messagerie l'a traité comme spam. Dans ce cas, envoyez-nous un e-mail à: <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a> avec une brève description de la situation (précisez le coffre InPost choisi, la date d'incident, etc.) ou contactez notre support technique (Helpdesk) au numéro 1-84-GO-INPOST.</div>
+                    </div>
+                                                            <div class="faq-l"><span>15.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels14" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Que dois-je faire si la livraison de l&#039;e-boutique n&#039;est pas arrivée au distributeur de colis InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels14">
+                            Si le colis n'est pas arrivée au distributeur de colis InPost, vérifiez d'abord son statut en utilisant la fonction  <a href="/fr/suivi-du-colis">Suivi du colis</a> ou <a href="https://pm.inpost24.ca/login?lang=ca_fr">Gestionnaire de Colis.</a> Si vous pensez que le statut du colis est incorrect, envoyez-nous un e-mail à: <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a> avec une brève description de la situation (précisez le coffre InPost choisi, la date d'incident, etc.) ou contactez notre support technique (Helpdesk) au numéro 1-84-GO-INPOST. Le service Helpdesk est disponible 24/7.</div>
+                    </div>
+                                                            <div class="faq-l"><span>16.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels15" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Que faire lorsque le distributeur de colis  InPost auquel je veux envoyer un colis ne fonctionne pas?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels15">
+                            En cas de panne d'un distributeur de colis InPost, envoyez-nous un e-mail à: <a href="mailto:sales@inpost24.ca"> sales@inpost24.ca</a> avec une brève description de la situation (précisez le coffre InPost choisi, la date d'incident, etc.) ou contactez notre support technique (Helpdesk) au numéro 1-84-GO-INPOST. Le service Helpdesk est disponible 24/7.</div>
+                    </div>
+                                                            <div class="faq-l"><span>17.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels16" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Les distributeurs de colis, sont-ils sûrs?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels16">
+                            Les distributeurs de colis sont très sûrs. Ils sont placés dans des endroits bien éclairé, fréquentés par de nombreux acheteurs et sont gardés par trois caméras de vidéosurveillance qui enregistrent les livraisons et les réceptions de colis. Nous envoyons à nos clients des codes de réception exclusifs valables pour une seule livraison. Le système confirmera la réception du colis par le client et vous enverra une confirmation. Comment et quand sont reçues les confirmation de la livraison?</div>
+                    </div>
+                                                            <div class="faq-l"><span>18.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels17" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Comment le client reçoit les colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels17">
+                            Lorsque le colis est livré àau distributeur de colis, le client recevra un SMS et un e-mail indiquant un code d'accès unique et l'emplacement ddu distributeur de colis où il peut ramasser le colis. Cela peut être un  code QR ou un numéro à six chiffres. Le code QR est envoyé par SMS (avec un lien où il y a le code) et par e-mail (en pièce jointe). La réception du colis, en utilisant le code QR ne prend que 7 secondes - il  suffit de scanner le code dans le distributeur où le colis est reçu. La réception avec le code numérique ne prend que quelques secondes de plus - il faut entrer le code manuellement sur l'écran du distributeur de colis. Les clients peuvent recevoir le colis à un moment opportun pour eux. C'est beaucoup plus pratique que d'attendre la livraison du colis que certainement chacun de nous a manqué une fois, non?</div>
+                    </div>
+                                                            <div class="faq-l"><span>19.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels18" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Soutenez-vous les retours?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels18">
+                            Oui, les distributeurs de colis peuvent être utilisés pour retourner les marchandises. Pour effectuer un retour, le client reçoit une étiquette jointe par vous ou générée en ligne. Ensuite, le client doit mettre les marchandises dans le distributeur de colis et notre service de messagerie les ramassera et retournera. Y at-il une politique de retour valides?</div>
+                    </div>
+                                                            <div class="faq-l"><span>20.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels19" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Offrez-vous une assurance pour couvrir les pertes?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels19">
+                            Nous fournissons une petite protection d'assurance qui correspond à l'étendue de la protection du transitaire.</div>
+                    </div>
+                                                            <div class="faq-l"><span>21.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels20" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Quels devraient être les dimensions maximales et le poids maximum du colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels20">
+                            Le poids maximum est de 20 kg et les dimensions maximales sont de 380 x 360 x 620 mm. Quelles sont les dimensions des colis envoyés par vous?</div>
+                    </div>
+                                                            <div class="faq-l"><span>22.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels21" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Quelles sont les dimensions des coffres dans les distributeurs de colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels21">
+                            Il existe trois types de coffres: <br/> a) hauteur: 80 mm x largeur: 380 mm x longueur: 640 mm <br/> b) 190 x 380 x 640 mm <br/>c) 380 x 360 x 620 mm</div>
+                    </div>
+                                                            <div class="faq-l"><span>23.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_clients-professionnels22" data-toggle="collapse" data-parent="#faq_clients-professionnels">
+                                Quelles sont les exigences pour les distributeurs de colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_clients-professionnels22">
+                            1) L'alimentation électrique: la même que pour l'ordinateur. La source d'alimentation desdistributeurs de colis est fournie par le hôte mais chaque distributeur de colis a aussi une batterie si elle est nécessaire. <br/> 2) La fonction d'interaction de voix à travers laquelle la machine "accueile" les clients.<br/> 3) La technologie ressemblant à la communication mobile: on utilise des cartes SIM mobiles ce qui donne au système un degré élevé de fiabilité.<br/> 4) Les dystributeurs de colis typiques ont 72 coffres individuels pour assurer leur performance d'un point de vue économique, ce qui signifie qu'ils ont une longueur de 5 m et une hauteur de 2,5 m.<br/> 5) Nous offrons également des versions modulaires ce qui signifie que le nombre de coffres peut varier selon les exigences de localisation <br/> 6) Les distributeurs de colis modulaires peuvent être étendus par l'ajout de modules supplémentaires, avec un maximum de 200 coffres. <br/> 7) Les deux modèles ont un éclairage LED <br/> 8) Sur les deux extrémités de l'auvent, on a placé une une caméra de télésurveillance. La troisième caméra, enregistrant les transactions sur le disque dur, se trouve dans le centre de la console  <br/> 9) Sur demande, les distributeurs de colis peuvent être fixés au sol. Sinon, ils sont placés sur une fondation en béton. <br/> 10) Un distributeur de colis vide pèse environ 2,5 tonnes. <br/> 11) Les contrats sur l'emplacement des distributeurs de colis sont signés pour trois ans, de sorte que la continuité du service est assurée aux clients. <br/> Les spécifications sont complètes. Les distributeurs de colis existent en Pologne depuis trois ans, donc nous savons qu'ils fonctionnent bien. <br/> Pensez-vous que nos distributeurs de colis plairont aux clients?</div>
+                    </div>
+                                        
+
+                </div>
+            </div>
+
+
+        
+            <div class="row faq tab-pane" id="faq_sites-htes">
+                <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes0" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quelles exigences doivent être remplies pour installer un distributeur de colis dans mon emplacement?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes0">
+                            <p> L'installation du distributeur de colis dans votre région nécessite les éléments suivants:  </p> <ul> <li> surface d'environ 5 m2 (3m <sup>2</sup> pour un distributeur et d'environ 2m2 devant le distributeur pour permettre l'accès aux clients et aux courriers </ li> <li> Alimentation électrique</li> <li>Couverture GSM </li> <li>accès 24/7.</li> <li> Idéalement, s' il y a un parking à proximité.</li> </ul> <p> Placez un distributeur de colis InPost dans votre région et commercialisez ainsi un espace non aménagé, augmentez l'attractivité de votre emplacement et profitez de recettes plus grandes et du flux de clients qui ramasseront leurs colis dans les distributeurs InPost. InPost assure un entretien régulier des distributeurs de colis. Nous recherchons d'endroits différents et offrons des possibilités réelles à de différents hôtes. </ p></div>
+                    </div>
+                                                            <div class="faq-l"><span>2.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes1" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quels sont les avantages de l&#039;installation du distributeur de colis pour le secteur bancaire?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes1">
+                            p> En installant un distributeur de colis InPost ouvert 24/7 à votre établissement, vous serez en mesure de: </p> <ol> <li> attirer à vos succursales de banques un plus grand nombre de clients pour qui le temps est une question importante, ce qui permettra d'augmenter <b> les recettes </b> et le nombre de transactions <b></b>. Les distributeurs de colis InPost sont utilisés en moyenne 1500 fois par mois, ce qui signifie 1500 fois plus d'interactions avec vos guichets automatiques. Une partie de ces 1500 opérations peuvent être des retraits (les clients peuvent faire deux choses à la fois pour gagner du temps). </li> <li> augmenter le nombre d'interactions entre les clients et votre banque et les fidéliser. <b> gagner des possibilités supplémentaires de commercialisation </b> - 1500 clients supplémentaires verront le logo de votre banque / banque/son nom/une publicité au guichet automatique. Ventes croisées / promotions liées à la vente de produits plus chers disponibles pour les clients d'InPost. </li> <li> augmenter le nombre de transactions dans vos guichets automatiques. <b> Possibilités du développement</b> -. des frais et transactions supplémentaires peuvent soutenir les projets d'expansion du réseau de guichets automatiques dans des endroits où ce n'était pas auparavant rentable. </li> </ol></div>
+                    </div>
+                                                            <div class="faq-l"><span>3.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes2" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quels sont les avantages de l&#039;installation du distributeur de colis pour le secteur du commerce de détail?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes2">
+                            <p> En installant un distributeur de colis InPost ouvert 24/7 à votre établissement, vous serez en mesure de : </p><ol> <li> prolonger les heures d'ouverture et offrir une réception 24/7. offrir à vos clients un service appelé « cliquez et ramassez», leur permettant de recevoir les achats via les distributeurs de colis InPost, 24/7, y compris les week-ends et les jours fériés, indépendamment des heures d’ouverture du magasin. En outre, il ya la possibilité d'installer des coffres avec un refroidissement qui agissent comme des réfrigérateurs ce qui vous permettra d'offrir des légumes frais ou d'autres produits qui nécessitent un stockage à basse température. </li><li>générer des revenus supplémentaires provenant de l’activité principale en raison d’un flux supérieur de clientèle. Nos distributeurs de colis attirent de nouveaux clients dans les magasins avec lesquels nous travaillons. Les distributeurs de colis InPost sont utilisés en moyenne 1500 fois par mois , ce qui signifie 1500 personnes supplémentaires dans le voisinage immédiat de vos magasins, ce qui se traduit par la possibilité de gagner de nouveaux clients. Ces nouveaux clients dépensent en moyenne autant que pour des achats standard dans le magasin. </li><li> générer des revenus supplémentaires – les distributeurs de colis InPost comme espace publicitaire. Les distributeurs de colis InPost vous permettent de générer des revenus supplémentaires, en exploitant leurs côtés et la paroi arrière comme un espace publicitaire. La grande taille du distributeur (hauteur : 2,22 m , largeur :2,98 m , longueur : 0,95 m ) et un emplacement pratique en font un espace publicitaire attrayant qui permet de placer de grandes annonces. </li></ol ></div>
+                    </div>
+                                                            <div class="faq-l"><span>4.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes3" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quels sont les avantages de l&#039;installation du distributeur de colis pour le secteur ferroviaire?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes3">
+                            <p> En installant un distributeur de colis InPost ouvert 24/7, vous serez en mesure de : </p><ol> <li> commercialiser un espace non aménagé. Installez un distributeur de colis InPost, assurez un accès facile et gagnez de l'argent. < / li> <li> Proposez aux magasins situés à la gare un service gratuit « cliquez et ramassez » 24/7. Offrez aux magasins situés à la gare ou à proximité un canal de vente supplémentaire . Les marchandises peuvent être livrées aux distributeurs de colis et reçues par les clients autour de l'horloge à un moment opportun pour eux, même en dehors des heures de l'ouverture des magasins. Selon une étude menée par InPost, 37 % des colis sont reçus la nuit (18:00-08:00). Avantages de l'augmentation des ventes grâce à ce service . </li><li>Offrez la réalisation de vos propres services avec nos distributeurs de colis. Créez vos propres services basés sur les distributeurs de colis InPost l'aide d'une expédition/réception automatisé. Maximisez les opportunités offertes par les distributeurs de colis InPost, en fonction de vos besoins. </li> <li> Générez des revenus supplémentaires - les distributeurs de colis InPost comme espace publicitaire. Les distributeurs de colis InPost vous permettent de générer des revenus supplémentaires, en exploitant leurs côtés et la paroi arrière comme un espace publicitaire. La grande taille du distributeur (hauteur : 2,22 m, largeur : 2,98 m, longueur : 0,95 m) et un emplacement pratique en font un espace publicitaire attrayant qui permet de placer de grandes annonces. </li><li>Augmentez l'attractivité et la compétitivité de son espace de vente. Plus de revenus pour les magasins situés à la gare – les distributeurs de colis InPost sont utilisés en moyenne 1500 fois par mois, ce qui signifie 1500 personnes supplémentaires dans le voisinage immédiat de vos magasins, ce qui se traduit par la possibilité de gagner de nouveaux clients. Avec la possibilité de co-branding dans les distributeurs de colis, les gares deviendront plus confortables et plus modernes. </li></ul></div>
+                    </div>
+                                                            <div class="faq-l"><span>5.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes4" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quels sont les avantages de l&#039;installation du distributeur de colis aux stations d&#039;essence?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes4">
+                            <p> En installant un distributeur de colis InPost ouvert 24/7 à votre station d’essence, vous gagnez la possibilité </p><ol> <li> de générer des revenus supplémentaires provenant de l’activité principale en raison d’un flux de clientèle accru. Nos distributeurs de colis attirent de nouveaux clients aux magasins avec lesquels nous travaillons. Les distributeurs de colis InPost sont utilisés en moyenne 1500 fois par mois, ce qui signifie 1500 personnes supplémentaires dans le voisinage immédiat de vos magasins , ce qui se traduit par la possibilité de gagner de nouveaux clients. Selon une étude réalisée par InPost, 13% des utilisateurs des distributeurs de colis font des achats supplémentaires à l'occasion de la réception des colis et 56 % des répondants déclarent que lors de la prochaine visite au distributeur de colis, ils voudraient faire le plein. 47% des clients fidèles des stations d'essence y arrivent spécifiquement pour ramasser un colis. </li><li>Commercialisez un espace non aménagé. Installez un distributeur de colis InPost, assurez un accès facile et gagnez de l'argent. </li><li>Générez des revenus supplémentaires - les distributeurs de colis InPost comme espace publicitaire. Les distributeurs de colis InPost vous permettent de générer des revenus supplémentaires, en exploitant leurs côtés et la paroi arrière comme un espace publicitaire. La grande taille du distributeur (hauteur : 2,22 m, largeur : 2,98 m, longueur : 0,95 m) et un emplacement pratique en font un espace publicitaire attrayant qui permet de placer de grandes annonces. </li><li>Les distributeurs de colis peuvent faciliter l'introduction de programmes de fidélisation. Créez votre programme de fidélité avec les distributeurs de colis InPost, en offrant une méthode automatisée de réception et d'expédition des colis, adaptée à des besoins individuels (par exemple, la distribution de prix dans le cadre de programmes de fidélisation, de gadgets, etc.) </li></ol></div>
+                    </div>
+                                    </div><div class="span6">
+                                                            <div class="faq-l"><span>6.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes5" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quels sont les avantages de l&#039;installation du distributeur de colis aux centres de bureaux?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes5">
+                            <p> En installant un distributeur de colis InPost ouvert 24/7 vous serez en mesure de : </p><ol> <li>offrir des services postaux. Grâce aux distributeurs de colis InPost, le courrier privé ne sera plus présent dans la zone de réception et il sera séparé du courrier professionnel. Le personnel administratif ne arrêtera plus inutilement leurs activités pour recevoir des colis et rechercher leurs bénéficiaires. </li><li>économiser du temps des salariés. Assurez la commodité à vos employés, qui n'auront pas à quitter le bureau pour ramasser un colis. </li><li> Commercialisez un espace non aménagé. Installez un distributeur de colis InPost, assurez un accès facile et gagnez de l'argent. </li><li> Générez des revenus supplémentaires - les distributeurs de colis InPost comme espace publicitaire. Les distributeurs de colis InPost vous permettent de générer des revenus supplémentaires, en exploitant leurs côtés et la paroi arrière comme un espace publicitaire. La grande taille du distributeur (hauteur : 2,22 m, largeur : 2,98 m, longueur : 0,95 m) et un emplacement pratique en font un espace publicitaire attrayant qui permet de placer de grandes annonces. </li></ol></div>
+                    </div>
+                                                            <div class="faq-l"><span>7.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes6" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quelles sont les dimensions des distributeurs de colis?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes6">
+                            <p> Les dimensions de nos distributeurs de colis sont les suivantes: </br>taille S: 80 mm (hauteur) x 380 mm (largeur) x 640 mm (longueur) <br/> taille M: 190 mm ​​(hauteur) x 380 mm (largeur) x 640 mm (longueur)  <br/>taille L: 380 mm (hauteur) x 380 mm (largeur) x 640 mm (longueur) </ p></div>
+                    </div>
+                                                            <div class="faq-l"><span>8.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes7" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Qu&#039;est-ce que cela signifie que les distributeurs de colis InPost sont modulaires?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes7">
+                            <p> Les distributeurs de colis InPost ouverts 24/7 peuvent facilement être adaptés à l'espace disponible. Chaque distributeur dispose d'une unité de commande centrale et de coffres individuels dont le nombre peut être adapté à vos besoins. Vous pouvez ajouter / supprimer des modules individuels, en fonction de l'espace disponible <br/> <b> Module à un coffre :</b><br/>Largeur: 565 mm<br/>  Hauteur: de 2221 à 2300 mm<br/>  Longueur: 942 mm, <br/> Poids : ~ 200 kg </p></div>
+                    </div>
+                                                            <div class="faq-l"><span>9.</span></div>
+                    <div class="faq-s">
+                        <div class="faq-q">
+                            <a href="#info_sites-htes8" data-toggle="collapse" data-parent="#faq_sites-htes">
+                                Quelles sont les exigences techniques à respecter pour installer un distributeur de colis InPost?</a>
+                        </div>
+
+                        <div class="collapse faq-a" id="info_sites-htes8">
+                            <p> <b> surface et sa préparation </b> <br/>Le distributeur de colis InPost ouvert 24/7 pèse 2,5 tonnes donc il est très important que la surface sur laquelle il sera placé soit stable, c'est-à dire pavée et nivelée. La différence maximale admissible de la hauteur entre le point le plus élevé et le plus bas du substrat ne peut pas dépasser 8 cm, c'est la plage de réglage de la base du distributeur de colis. Après avoir posé le distributeur de colis, il doit être correctement nivelé. <br/> Si le substrat sur lequel le distributeur est posé n'est pas assez dur, il faut utiliser des dalles de béton. Une description détaillée de la procédure d'installation du distributeur de colis peut être trouvée dans la section «Installation du distributeur de colis ». <br/><br/> <b> L’alimentation </b><br/> du distributeur de colis InPost exige une alimentation standard de 230 V AC, fréquence 50 Hz. L'appareil nécessite une plage de puissance de 100 à 1000 VA, en fonction des conditions de fonctionnement (température, humidité). <br/> En plus des exigences énoncées ci-dessus, assurez les paramètres d'installation suivants: </p><ul> <li>pour assurer la protection contre les chocs électriques , installez la mise à la terre et l’interrupteur d’alimentation, et </li><li>le filtre de surtension</li></ul></div>
+                    </div>
+                                        
+
+                </div>
+            </div>
+
+
+        
+        <div class="row faq tab-pane" id="faq_wirtualny_doradca">
+            <div class="span12 centered">
+                                <div style="width: 867; height; 355;"><div id="wirtualny">wirtualny doradca</div></div>
+            </div>
+        </div>
+
+    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- END CONTENT -->
+
+            <div id="push"></div>
+    
+</div>
+
+<!-- FOOTER -->
+<div class="container-fluid footer-fluid  footer-fixed ">
+    
+        <div class="row-fluid" id="footer-bg"></div>
+        <div class="row-fluid" id="footer">
+            <div class="span12">
+                <div class="container" style="position: relative;">
+
+                    <!-- NAVIGATION -->
+                    <div class="startnavi-2 hide">
+                        <ul>
+                        </ul>
+                                                                            <div class="nav-movie">
+                                <a href="#" id="skip" class="btn btn-primary hide"><span>Passez l'intro</span></a>
+                                <a href="#" id="play" class="btn btn-primary hide"><span>lecture de l'introduction</span></a>
+                            </div>
+                                                                    </div> <!-- END NAVIGATION -->
+
+                    <div class="row">
+
+                        <!-- FOOTER MENU -->
+                        <div class="span10">
+                            <div id="menu-footer">
+                                
+<ul class="nav nav-pills  lang-fr">
+                                
+                                                                                                                                                                                                                                <li id="mm32"
+                >
+                <a href=/fr/information target="_self"><span class="maintitle">Information </span><span class="subtitle"></span></a>
+            </li>
+                                                                    
+                                                                                                                                                                                                                                                                                                                        <li id="mm33"
+                >
+                <a href=/fr/inpost/actualite-et-evenements target="_self"><span class="maintitle">Actualité </span><span class="subtitle">et Evénements </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li id="mm38"
+                >
+                <a href=/fr/accueillez-un-distributeur-de-colis-inpost target="_self"><span class="maintitle">Accueillez </span><span class="subtitle">un distributeur de colis InPost </span></a>
+            </li>
+                                                                    
+                                                                                                                                                                                                                                                                                                                        <li id="mm37"
+                class="active">
+                <a href=/fr/faq target="_self"><span class="maintitle">Foire </span><span class="subtitle">aux questions </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                        <li id="mm39"
+                >
+                <a href=/fr/opinions-des-utilisateurs target="_self"><span class="maintitle">Opinions </span><span class="subtitle">des utilisateurs </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                <li id="mm40"
+                >
+                <a href=/fr/contactez-nous target="_self"><span class="maintitle">Contactez-nous </span><span class="subtitle"></span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                <li id="mm34"
+                >
+                <a href=/fr/faites-connaissance-avec-notre-equipe target="_self"><span class="maintitle">Faites </span><span class="subtitle">connaissance avec notre équipe </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                <li id="mm35"
+                >
+                <a href=/fr/prix target="_self"><span class="maintitle">Prix </span><span class="subtitle"></span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                                                                                                        <li id="mm109"
+                >
+                <a href=/fr/politique-de-confidentialite target="_self"><span class="maintitle">Politique </span><span class="subtitle">de confidentialité </span></a>
+            </li>
+                                        
+                                                                                                                                                                                                                                <li id="mm113"
+                >
+                <a href=/fr/t-c target="_self"><span class="maintitle">T&C </span><span class="subtitle"></span></a>
+            </li>
+            </ul>                            </div>
+                        </div> <!-- END FOOTER MENU -->
+
+                        <div class="span2">
+                                                </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="span4">
+                            <div class="copy">&copy; 2016 InPost Canada Inc.</div>
+                        </div>
+                        <div class="span4 centered">
+                            <div class="phone">1-84-GO-INPOST</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span12">
+                            <p class="webmaster text-center">To report a fault or other technical issue on this website email <a href="mailto:webmaster@inpost24.com">webmaster@inpost24.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- END FOOTER -->
+
+
+    <script type="text/javascript">
+        $(function () {
+
+            // wirtualny doradca
+            var flashvars = {};
+            flashvars.avatarPath    = 'http://mars.stanuschtechnologies.pl/aio/bots/inpost_paczkomaty_new/avatar.xml';
+            flashvars.viralScript   = 'http://www.paczkomaty.pl/paczkomaty2010/includes/virtualAdvisorResponder.php';
+            flashvars.playerId      = 1;
+            flashvars.topicFemale   = 'Zabawiałem się z Twoją koleżanką';
+            flashvars.topicMale     = 'Zabawiałam się z Twoim kolegą';
+
+            var params = {};
+            params.wmode              = "transparent";
+            params.allowscriptaccess  = "always";
+            params.allownetworking    = "all";
+            params.allowfullscreen    = true;
+            params.bgcolor            = "#fff";
+            params.quality            = "high";
+            params.base               = ".";
+            params.menu               = "false";
+
+            var attributes = {};
+            attributes.id             = "boxVirtualAdviser";
+            attributes.name           = "boxVirtualAdviser";
+
+            var randomnumber = Math.floor(Math.random()*10000);
+
+            swfobject.embedSWF("http://mars.stanuschtechnologies.pl/aio/bots/inpost_paczkomaty_new/dorota.swf", "wirtualny", "867", "355",  "9.0.0","",flashvars,params,attributes);
+            // wirtualny doradca EOF
+
+
+            $('#nav-faq a').click(function (e) {
+                // No e.preventDefault() here.
+                window.location.hash = this.hash;
+                $(this).tab('show');
+            });
+
+
+            if(window.location.hash != '')
+            {
+                //   alert(window.location.hash);
+
+                $('#nav-faq a[href="' + window.location.hash + '"]').tab('show');
+            }
+            else
+            {
+                $('#nav-faq a:first').tab('show');
+            }
+
+
+
+        })
+    </script>
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11082268-48', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
