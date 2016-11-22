@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Welcome!</title>
+
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        <link rel="stylesheet" href="/bundles/evldashboard/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="/bundles/evldashboard/css/bootstrap-override.css" />
+
+        
+    <link rel="stylesheet" href="/bundles/evldashboard/css/unicorn.login.css" />
+
+        <link rel="stylesheet" href="/bundles/evldashboard/css/main.css" />
+
+    </head>
+    <body>
+
+        
+    
+    
+    <div id="loginbox">
+
+        <form id="loginform" class="form-vertical" action="/login_check" method="POST">
+
+            <p>
+                <strong>Enter your username and password to continue.</strong>
+            </p>
+
+            <div class="form-group">
+                <label class="sr-only" for="username">Username</label>
+                <div class="input-group">
+                    <div class="input-group-addon">
+                        <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                    </div>
+                    <input type="text" class="form-control" id="username" name="_username" placeholder="Username" value="" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="sr-only" for="password">Password</label>
+                <div class="input-group">
+                    <div class="input-group-addon">
+                        <span class="glyphicon glyphicon-lock" aria-hidden="true"></span>
+                    </div>
+                    <input type="password" class="form-control" id="password" name="_password" placeholder="Password" />
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <span class="pull-right">
+                    <input type="submit" class="btn btn-success" value="Login" />
+                </span>
+                <span class="pull-right">
+                    <a href="/" class="btn btn-info" role="button">Homepage</a>
+                </span>
+                <span id="remind" class="pull-right">
+                    <a href="/password_recovery" class="btn btn-info" role="button">Password recovery</a>
+                </span>
+            </div>
+        </form>
+
+    </div>
+
+        
+    <script src="/bundles/evldashboard/js/jquery.min.js"></script>
+    <script src="/bundles/evldashboard/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+
+            $(document).ready(function(){
+                $("a.confirm-delete").click(function(e) {
+
+                    e.preventDefault();
+                    var location = $(this).attr('href');
+
+                    bootbox.confirm("Are you sure?", function(confirmed) {
+                        if(confirmed)
+                        {
+                            //return window.location.href = $(this).attr('href');
+                            window.location.replace(location);
+                        }
+                    });
+                });
+            });
+
+        </script>
+
+    </body>
+</html>
