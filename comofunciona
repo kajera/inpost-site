@@ -90,43 +90,26 @@
                 </div>
             </div>
 
-            <!-- SUBMENU -->
-            <div class="row-fluid">
+            <!-- SUBMENU -->   
+            <!--    
+            <div class="row-fluid"> 
                 <div class="span12">
                     <div class="container">
                         <div class="row" id="submenu">
                             <div class="span10 offset2">
                                 <div class="menu-sub">
 
-<ul class="nav nav-pills  lang-en">
-    </ul>                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- END SUBMENU -->
-        </div> <!-- END HEADER -->
-            <!-- SUBMENU -->
-            <div class="row-fluid"> <!--
-                <div class="span12">
-                    <div class="container">
-                        <div class="row" id="submenu">
-                            <div class="span10 offset2">
-                                <div class="menu-sub">
-
-<ul class="nav nav-pills  lang-en">
-
-                                                                                                                                                                                                                                <li id="mm55"
-                class="active">
-                <a href=/en/for-you/how-does-it-work/collecting target="_self"><span class="maintitle">Collecting </span><span class="subtitle"></span></a>
+                                    <ul class="nav nav-pills  lang-en">
+                                        <li id="mm55" class="active">
+                                            <a href=/en/for-you/how-does-it-work/collecting target="_self"><span class="maintitle">Sending</span><span class="subtitle"></span></a>
                                         </li>
 
                                         <li id="mm56">
-                                            <a href=/en/for-you/how-does-it-work/sending target="_self"><span class="maintitle">Sending </span><span class="subtitle"></span></a>
+                                            <a href=/en/for-you/how-does-it-work/sending target="_self"><span class="maintitle"></span><span class="subtitle"></span></a>
                                         </li>
 
                                         <li id="mm57">
-                                            <a href=/en/faq target="_self"><span class="maintitle">FAQ </span><span class="subtitle"></span></a>
+                                            <a href=/en/faq target="_self"><span class="maintitle"></span><span class="subtitle"></span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -135,30 +118,26 @@
                     </div>
                 </div>
             </div>
+            -->
             <!-- END SUBMENU -->
-        </div>
-        <!-- END HEADER -->
-        -->
-
+        
         <!-- CONTENT -->
         <div class="container   " id="main-container">
             <div id="contentwrapper">
                 <div class="" id="">
-                    <div class="row" id="content">
+                    <div id="content">
 
                         <div class="span12" id="narrow-content">
-
-                            <div class="row">
                                 <div class="span12 module-304 " id="">
-                                    <h1>Como retirar uma encomenda?</h1> </div>
-                            </div>
-                            <div class="row">
+                                    <h1>Como retirar uma encomenda?</h1> 
+                                </div>
+                            <!-- div class="row" -->
                                 <div class="span4 module-305 korzysci-b2c hidden-phone" id="">
                                     <span class="icon"><img src="full_picture/90" border="0" /></span>
                                     <div class="popupbox">
                                         <a class="pop" id="popc305" href="#" rel="popover">
                                             <p>Compre online
-                                                <br>e selecione retirada no Click&Collect</p>
+                                                <br>e selecione retirada no <i>Click&Collect</i></p>
                                         </a>
                                         <div class="popup hide" id="popc305c">
                                             <div class="popupbg"></div>
@@ -171,7 +150,7 @@
                                     <span class="icon"><img src="full_picture/91" border="0" /></span>
                                     <div class="popupbox">
                                         <a class="pop" id="popc306" href="#" rel="popover">
-                                            <p>Receba mensagens com o código de rastreamento de sua encomenda e o código para retirada</p>
+                                            <p>Receba mensagem com o código de rastreamento e o código para retirada</p>
                                         </a>
                                         <div class="popup hide" id="popc306c">
                                             <div class="popupbg"></div>
@@ -194,43 +173,43 @@
                                     </div>
 
                                 </div>
-                            </div>
-                            <div class="row">
+                            <!-- /div -->
+                            <!--div class="row"-->
                                 <div class="span12 module-550 " id="">
                                     <div class="visible-phone accordion" id="accordion2">
                                         <div class="accordion-group">
                                             <div class="accordion-heading">
                                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Shop online and select InPost for delivery
+        Compre online e selecione retirada no CLick&Collect
       </a>
                                             </div>
                                             <div id="collapseOne" class="accordion-body collapse in">
                                                 <div class="accordion-inner">
-                                                    <p>Shop online with <a href="/en/for-business/who-is-on-board">our retail partners</a> and when you've finished, select InPost as your preferred delivery method. Choose the InPost Parcel Locker 24/7 which is closest or most convenient for you.</p>
+                                                    <p>Escolha seus produtos e quando for fechar o pedido, selecione Click&Collect como seu método de entrega preferido. Escolha o terminal Click&Collect que for mais perto ou conveniente para você.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="accordion-group">
                                             <div class="accordion-heading">
                                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-Receive text alerts and track your parcel
+Receba mensagem com o código de rastreamento e o código para retirada
       </a>
                                             </div>
                                             <div id="collapseTwo" class="accordion-body collapse">
                                                 <div class="accordion-inner">
-                                                    You will be notified by email or text when your parcel starts its journey. You can then check its whereabouts at any moment by entering your parcel number into our parcel tracking service.
+                                                    Você será notificado por email e/ou mensagem de texto sobre o andamento da entrega de sua encomenda, recebendo um código para rastreamento.
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="accordion-group">
                                             <div class="accordion-heading">
                                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseThree">
-        Collect and enjoy
+        Retire a encomenda no Click&Collect<br>e desfrute da sua compra
       </a>
                                             </div>
                                             <div id="collapseThree" class="accordion-body collapse">
                                                 <div class="accordion-inner">
-                                                    When your parcel has been delivered to your selected InPost parcel locker you will immediately be notified by text or email. The parcel will be waiting at the parcel locker for the next 3 days. And that’s how easy it is.
+                                                    Quando sua encomenda for armazenada no terminal Click&Collect escolhido, você será imediatamente notificado por mensagem de texto e/ou email e receberá também o código para retirada. Sua encomenda estará esperando por você no terminal Click&Collect. Viu como é fácil ?!.
                                                 </div>
                                             </div>
                                         </div>
@@ -299,6 +278,7 @@ Receive text alerts and track your parcel
                         <!-- FOOTER MENU -->
                         <div class="span10">
                             <div id="menu-footer">
+                            <!-- 
 
                                 <ul class="nav nav-pills  lang-en">
 
@@ -345,30 +325,24 @@ Receive text alerts and track your parcel
                                     <li id="mm144">
                                         <a href=/en/careers target="_self"><span class="maintitle">Careers </span><span class="subtitle"></span></a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                         <!-- END FOOTER MENU -->
-
+<!--
                         <div class="span2">
                             <div class="logo"><img src="/images/simply-08dc9b9.png" alt="" /></div>
                         </div>
-
+-->
                     </div>
-
-                    <div class="row">
-                        <div class="span4">
-                            <div class="copy">&copy; 2016 InPost Canada Inc.</div>
-                        </div>
-                        <div class="span4 centered">
-                            <div class="phone">1-84-GO-INPOST</div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="span12">
-                            <p class="webmaster text-center">To report a fault or other technical issue on this website email <a href="mailto:webmaster@inpost24.com">webmaster@inpost24.com</a></p>
-                        </div>
-                    </div>
+                <div class="span4">
+                    <div class="copy">&copy; 2016 InPost do Brasil Ltda.</div>
+                </div>
+                <div class="span3 centered">
+                    <div class="phone">www.inpost.com.br</div>
+                </div>
+                <div class="span4">
+                    <div class="webmaster text-right"><a href="mailto:webmaster@inpost.com.br">webmaster@inpost.com.br<a></div>
                 </div>
             </div>
         </div>
@@ -381,7 +355,7 @@ Receive text alerts and track your parcel
 
             <div class="item" id="">
                 <div class="symulator-cont" style="width:750px; ">
-                    <iframe width="750" height="555" src="/try" frameborder="0" allowfullscreen="" scrolling="no"></iframe>
+                    <iframe width="750" height="555" src="try" frameborder="0" allowfullscreen="" scrolling="no"></iframe>
                 </div>
             </div>
 
@@ -392,7 +366,7 @@ Receive text alerts and track your parcel
             <button style="z-index: 100; position: relative;" type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 
             <div class="item" id="">
-                <iframe width="540" height="405" src="//www.youtube.com/embed/FlHeMLj_A7Q" frameborder="0" allowfullscreen></iframe>
+                <iframe width="540" height="405" src="http://www.youtube.com/embed/FlHeMLj_A7Q" frameborder="0" allowfullscreen></iframe>
             </div>
 
         </div>
@@ -426,7 +400,7 @@ Receive text alerts and track your parcel
             });
         });
     </script>
-
+<!-- 
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -443,7 +417,7 @@ Receive text alerts and track your parcel
         ga('create', 'UA-11082268-48', 'auto');
         ga('send', 'pageview');
     </script>
-
+-->
 </body>
 
 </html>
