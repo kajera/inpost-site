@@ -1,0 +1,1606 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="author" content="InPost Canada" />
+    <meta name="designer" content="InPost Canada" />
+    <meta name="copyright" content="InPost Canada" />
+
+    <title>FAQ - InPost Canada</title>
+    <meta name="description" content="The new and convenient way to collect your online shopping from a network of automated self-service parcel lockers 24/7" />
+
+    <link rel="stylesheet" href="css/inpost-ca.min-5589a4e.css" />
+
+    <link rel="shortcut icon" href="favicon.ico?v=2" />
+
+    <script src="js/inpost-ca.min-f074fc4.js"></script>
+
+    <script type="text/javascript">
+        var played = 1;
+    </script>
+    <style>
+
+    </style>
+</head>
+
+<body class="">
+
+    <div id="wrap" class="underHandF">
+
+        <!-- HEADER -->
+        <div class="container-fluid " id="header-container">
+            <div class="row-fluid" id="header-bg"></div>
+            <div class="row-fluid" id="header">
+                <div class="span12">
+                    <div class="container">
+
+                        <!-- MENU -->
+                        <div class="row" id="">
+                            <div class="span2 logo">
+
+                                <a href="/" id="logo">
+                                    <img src="images/logo-4cb906a.png" alt="logo" /> </a>
+                            </div>
+
+                            <div class="span10 headercontent">
+                                <div class="pull-right choose-language">
+                                    <a class="btn btn-primary btn-small" href="/fr">ENGLISH</a>
+                                </div>
+                                <div class="menu-switch">
+
+                                    <ul class="nav nav-pills  lang-en">
+
+                                        <li id="mm53" class="active">
+                                            <!-- a href=/ target="_self"><span class="maintitle">For </span><span class="subtitle">you </span></a -->
+                                        </li>
+
+                                        <li id="mm65">
+                                            <!-- a href=en/for-business/how-to-get-started/sme target="_self"><span class="maintitle">For  Business </span><span class="subtitle"></span></a -->
+                                        </li>
+                                    </ul>
+                                    <ul class="nav nav-pills track">
+                                        <li class="">
+                                            <!-- a href="en/track-parcel"><span>  Track your parcel's journey </span></a --></li>
+                                    </ul>
+                                </div>
+
+                                <div class="menu-main">
+
+                                    <ul class="nav nav-pills  lang-en" i -->
+
+                                        <li id="mm58">
+                                            <a href=comofunciona target="_self"><span class="maintitle">COMO</span><span class="subtitle">funciona? </span></a>
+                                        </li>
+
+                                        <li id="mm58">
+                                            <a href=where-is-your-locker target="_self"><span class="maintitle">LOCALIZE </span><span class="subtitle">seu locker </span></a>
+                                        </li>
+
+                                        <li id="mm161">
+                                            <a href=track-parcel target="_self"><span class="maintitle">Rastrear</span><span class="subtitle">seu pacote </span></a>
+                                        </li>
+
+                                        <li id="mm169">
+                                            <a href=faq target="_self"><span class="maintitle">FAQ </span><span class="subtitle"></span></ai -->
+            </li>
+            </ul>                                </div>
+                            </div>
+                        </div> 
+                        <!-- END MENU -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- SUBMENU -->
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="container">
+                        <div class="row" id="submenu">
+                            <div class="span10 offset2">
+                                <div class="menu-sub">
+
+                                    <ul class="nav nav-pills  lang-en">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END SUBMENU -->
+        </div>
+        <!-- END HEADER -->
+
+        <!-- CONTENT -->
+        <div class="container   " id="main-container">
+            <div id="contentwrapper">
+                <div class="" id="">
+                    <div class="row" id="content">
+
+                        <div class="span12" id="narrow-content">
+
+                            <div class="row faq">
+                                <div class="span12 centered">
+
+                                    <h1>Alguma pergunta? <span class="subtitle">Nós temos as respostas!</span></h1>
+
+                                    <ul class="btn-set" id="nav-faq">
+
+                                        <li><a class="btn btn-inverse" href="#faq_general" data-toggle="tab">Geral</a></li>
+                                        <li><a class="btn btn-inverse" href="#faq_picking-up" data-toggle="tab">Retirada</a></li>
+                                        <!-- li><a class="btn btn-inverse" href="#faq_sending" data-toggle="tab">Sending</a></li -->
+                                        <!-- li><a class="btn btn-inverse" href="#faq_business-clients" data-toggle="tab">Business clients</a></li -->
+                                        <!-- li><a class="btn btn-inverse" href="#faq_site-hosts" data-toggle="tab">Site hosts</a></li -->
+                                        <!-- li><a class="btn btn-inverse" href="#faq_virtual-address" data-toggle="tab">Virtual Address</a></li -->
+                                        <!-- li><a class="btn btn-inverse" href="#faq_locker-to-locker" data-toggle="tab">Locker to Locker</a></li -->
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="tab-content">
+
+                                <div class="row faq tab-pane" id="faq_general">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general0" data-toggle="collapse" data-parent="#faq_general">
+                                O que é o Click&Collect InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general0">
+                                                Click&Collect InPost é uma rede de terminais automatizados (lockers) para encomendas, permitindo a retirada e retorno de compras online, 24 horas por dia, 7 dias por semana, o ano todo, incluindo fins-de-semana e feriados. 
+                                                Os inovadores lockers da InPost permitem conveniência última para entrega de suas compras online nos e-Commerces parceiros. Sem entregas perdidas, ter que ficar esperando a transportadora em casa, horário limitado de expediente e filas nos Correios. Os lockers da InPost permitem que você retire ou devolva as suas compras online na hora e local mais convenientes para você.</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general1" data-toggle="collapse" data-parent="#faq_general">
+                                Por que usar o Click&Collect Inpost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general1">
+                                                Conveniência. Você decide quando e onde retirar ou retornar a sua encomenda. Os lockers InPost estão acessíveis 24/7 e a retirada do seu item é rápida, podendo ser feita em até 7 segundos! </div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general2" data-toggle="collapse" data-parent="#faq_general">
+                                How does the InPost parcel service work?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general2">
+                                                InPost simply offers the option to deliver to an InPost parcel locker. When you complete your order select them as your preferred delivery option and search for your nearest locker. Your item will then be tracked and delivered to the locker of your choice. You will receive a text message and e-mail with a unique access code. You can pick up your parcel 24/7! <a href="https://inpost24.ca/en/minisite" target="_blank">Click here to learn more.</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general3" data-toggle="collapse" data-parent="#faq_general">
+                                Which retailers are you working with?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general3">
+                                                Please visit our dedicated Retail Partners page to see who we’re working with.</div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general4" data-toggle="collapse" data-parent="#faq_general">
+                                Where are InPost parcel lockers located?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general4">
+                                                InPost parcel lockers are located at convenience stores, grocery stores, shopping centres, gas stations and transit station locations that guarantee convenient 24/7 access and maximum security. <a href="https://inpost24.ca/en/for-you/where-is-your-locker" target="_blank">Click to find your nearest InPost Parcel Locker.</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general5" data-toggle="collapse" data-parent="#faq_general">
+                                What is the minimum and maximum allowable parcel weight?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general5">
+                                                There is no minimum parcel weight, but the maximum weight is 20 kg / 44 lb per item. The maximum size is no larger than H 15” x W 15”x D 25” / H 410 x W 380 x D 640 mm.
+                                                <br>
+                                                <br> InPost lockers can accommodate boxes that fit into either 1 of the 3 locker compartment sizes below:
+                                                <ul>
+                                                    <li>Small: H 3” x W 15” x D 25” / H 80 x W 380 x D 640 mm</li>
+                                                    <li>Medium: H 7.5” x W 15” x D 25” / H 190 x W 380 x D 640 mm</li>
+                                                    <li>Largest: H 15” x W 15” x D 25” / H 410 x W 380 x D 640 mm</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general6" data-toggle="collapse" data-parent="#faq_general">
+                                What items are not allowed to be sent via InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general6">
+                                                It is forbidden to include the following items in a parcel:
+                                                <ul>
+                                                    <li>human remains in any form
+                                                    </li>
+                                                    <li>animals, birds or insects
+                                                    </li>
+                                                    <li>currency (including cash or coins) or other securities negotiable without endorsement such as bearer bonds, gift certificates, etc.
+                                                    </li>
+                                                    <li>fish, seafood or meat (fresh or frozen)
+                                                    </li>
+                                                    <li>tobacco or alcohol, inter-provincial/state (i.e. across provincial/state boundaries)
+                                                    </li>
+                                                    <li>firearms or weapons of any kind (including parts thereof)
+                                                    </li>
+                                                    <li>medical/biological materials
+                                                    </li>
+                                                    <li>drugs prohibited by law</li>
+                                                </ul>
+
+                                                ALSO: dangerous liquids, liquefiable substances and powders. The above listing is not all-inclusive and InPost reserves the right to refuse a parcel containing other dangerous items.
+                                                <br/> NOTE: The customer has the responsibility of ensuring that the contents of an item can be shipped under law. Canadian legislation, including but not limited to the Criminal Code, the Canada Post Corporation Act, the Tobacco Act and the Transportation of Dangerous Goods Act, can prohibit the shipping of certain items. Restricted and prohibited items also vary by country. Restrictions change from time to time. Therefore, the customer must ensure that the contents meet all current applicable requirements.</div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general7" data-toggle="collapse" data-parent="#faq_general">
+                                How often are parcels delivered to InPost locations?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general7">
+                                                Parcels are delivered to InPost locations during working days.</div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general8" data-toggle="collapse" data-parent="#faq_general">
+                                Can two parcels be delivered to the same locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general8">
+                                                Only one parcel can be delivered to each locker. But you can send many parcels at the same time. It’s fast and easy - you need to print labels for all your parcels and hand the parcels to our carrier. All parcels will be inserted to separate lockers.</div>
+                                        </div>
+                                        <div class="faq-l"><span>10.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general9" data-toggle="collapse" data-parent="#faq_general">
+                                How can I select my preferred InPost location?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general9">
+                                                You can select your preferred InPost locker during the checkout process when selecting a shipping option in the shopping cart. Simply select an InPost Locker location from the available locations listing or map and confirm to proceed. You can also find the nearest InPost location for your needs by clicking on the following link: <a href="https://inpost24.ca/en/for-you/where-is-your-locker" target="_blank"> InPost Location Finder.</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>11.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general10" data-toggle="collapse" data-parent="#faq_general">
+                                How can I track my order?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general10">
+                                                You can always track your parcel using the track your parcel's journey link provided to you by InPost. All you need to do is enter the parcel number included in your text message/e-mail notification at <a href="https://inpost24.ca/en/track-parcel" target="_blank">this tracking site.</a> You can track your parcel on our website to see exactly where it is any time in its journey.</div>
+                                        </div>
+                                        <div class="faq-l"><span>12.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_general11" data-toggle="collapse" data-parent="#faq_general">
+                                How do I contact InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_general11">
+                                                If you require any support in collecting your parcel, please contact InPost 24 hour Customer Support at 1 (844) 646-7678.</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_picking-up">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up0" data-toggle="collapse" data-parent="#faq_picking-up">
+                                How do I pick up my package?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up0">
+                                                When your parcel is placed into the InPost parcel locker you will immediately receive a notification by a text message and/or an e-mail. These messages will contain your parcel’s number, the InPost parcel locker address and an opening code required to collect the parcel, InPost will also include a QR code making that you can use instead of entering the opening code, making the pickup process as little as 7 seconds! To Pick Up your parcel, go to the InPost locker you have selected, with you’re the text message or e-mail notification containing your pin and QR code. If you do not wish to use the QR code, you can select “Pick Up Parcel”, enter the phone number and enter the collection code listed in your notification.
+                                                <br>
+                                                <img src="http://images.inpost24.ca/website/HowtoPickUpParcels.png" alt="How to Pickup Parcels"></div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up1" data-toggle="collapse" data-parent="#faq_picking-up">
+                                What kind of items can be delivered through InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up1">
+                                                All items which are not prohibited by law, are not dangerous goods, and are not prohibited by InPost’s regulations. List of prohibited items is available in the Boring bits section. The item must also fulfill the weight (No minimum, maximum 20kg/44lb) and size (maximum: 38x38x64cm or 15"x15"x25") criteria.</div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up2" data-toggle="collapse" data-parent="#faq_picking-up">
+                                Do I need to register online to collect my parcels from an InPost parcel locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up2">
+                                                No, we will use the contact details supplied with your order to the retailer. The two systems will be integrated and all we need is your e-mail address and mobile phone number.</div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up3" data-toggle="collapse" data-parent="#faq_picking-up">
+                                How will I know when I can collect my parcel from the InPost parcel locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up3">
+                                                When your parcel is placed into the InPost parcel locker you will immediately receive a notification by a text message and/or an e-mail. These messages will contain your parcel’s number, the InPost parcel locker address and a code required to collect the parcel. The code could either be a numerical or a QR code, making picking up your parcel very quick.</div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up4" data-toggle="collapse" data-parent="#faq_picking-up">
+                                How many days do I have to pick up my parcel from the InPost locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up4">
+                                                The InPost delivery is stored for 3 days, 72 hours from the moment you receive your text message/ e-mail notification. After the second working day (48 hours) from the moment the parcel is delivered to the InPost parcel locker, you will receive a text message and an e-mail notification from InPost reminding you that you only have 24 hours left to collect your delivery. Click <a href="https://youtu.be/0sy6au8-iis" target="_blank">here</a> to see a short video on how to pick up your parcel.</div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up5" data-toggle="collapse" data-parent="#faq_picking-up">
+                                Will I receive a reminder concerning parcel pick-up?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up5">
+                                                After the second working day (48 hours) from the moment the parcel is delivered to the InPost parcel locker, you will receive a text message and an e-mail notification reminding you that you only have 24 hours left to collect you delivery.</div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up6" data-toggle="collapse" data-parent="#faq_picking-up">
+                                When are deliveries sent back to the sender?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up6">
+                                                Parcels are stored in the InPost parcel locker locker for a period of 3 days, then the items are sent back to the Sender. The Sender covers the cost of the return.</div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up7" data-toggle="collapse" data-parent="#faq_picking-up">
+                                Can my parcel be picked up in my name by another person who has the pick-up code?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up7">
+                                                The person you entrust the parcel with will either need both the <b>code</b> received by text message/e-mail and <b>your mobile number, or they can use the QR code to scan at the parcel locker.</b> You take full responsibility for supplying the message details to a third party, who will pick up the parcel in your name.</div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up8" data-toggle="collapse" data-parent="#faq_picking-up">
+                                How can I track a parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up8">
+                                                You can always track your parcel using the track your parcel's journey link located on our home page. All you need to do is enter the parcel number included in your text message/e-mail notification.</div>
+                                        </div>
+                                        <div class="faq-l"><span>10.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_picking-up9" data-toggle="collapse" data-parent="#faq_picking-up">
+                                How long does it take for my parcel to be delivered to my InPost parcel locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_picking-up9">
+                                                Standard delivery is by the next working day after dispatch. You can track your parcel on our website to see exactly where it is any time in its journey.</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_sending">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending0" data-toggle="collapse" data-parent="#faq_sending">
+                                Who can send parcels via InPost parcel lockers?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending0">
+                                                This service is available to companies that are both integrated with the InPost system, as well as individual clients.</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending1" data-toggle="collapse" data-parent="#faq_sending">
+                                How do I send a parcel via InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending1">
+                                                <strong>1. Prepare your parcels for sending</strong>
+                                                <br/>If you are a large sender integrate with us to fully automate the posting process. <a href="/en/get-in-touch?ref=startup">Contact us</a> to check how you can do it in an easy way.
+                                                <br/><strong>2. Print the label</strong>
+                                                <br/>Before you send, you’ll need the address, e-mail address and phone number of your recipient, so we can inform them about the delivery. Then, simply select a destination InPost parcel locker and parcel size and finally, print the personalized label for your delivery.
+                                                <br/><strong>3. Hand your parcel to the courier</strong>
+                                                <br/>Put the labels on your parcels and hand it to the carrier. We will organize regular picke-up of your parcels by a carrier, even daily if needed.
+                                                <br/> As soon as the parcel reaches its destination parcel locker, the recipient will be notified. It’s that easy!</div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending2" data-toggle="collapse" data-parent="#faq_sending">
+                                How much time do I have to deliver the parcel to the InPost parcel locker from the moment I generate a shipping label?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending2">
+                                                Each prepared label has a set validity period of 48 hours. After this period placing a parcel into the InPost parcel locker is no longer possible. </div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending3" data-toggle="collapse" data-parent="#faq_sending">
+                                When is payment charged from my account for sending a parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending3">
+                                                Funds from the account are charged when the parcel shipping label is created.</div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending4" data-toggle="collapse" data-parent="#faq_sending">
+                                How much does it cost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending4">
+                                                This will vary dependent on the volume of parcels being sent in a month; however we aim to provide the best value and most convenient next-day service for our customers.</div>
+                                        </div>
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending5" data-toggle="collapse" data-parent="#faq_sending">
+                                What happens if the recipient doesn&#039;t collect the parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending5">
+                                                Should the recipient not collect his/her parcel within 3 days of sending a notification, the delivery will be returned to the sender, who will be charged an amount equivalent to the cost of sending the parcel.</div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending6" data-toggle="collapse" data-parent="#faq_sending">
+                                When are deliveries sent back to the sender?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending6">
+                                                Parcels are stored in the InPost parcel locker locker for a period of 3 days. If not picked up within this period they are sent back to the sender.</div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_sending7" data-toggle="collapse" data-parent="#faq_sending">
+                                What are the dimensions of locker boxes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_sending7">
+                                                There are three box sizes. The smallest size is 8cm h x 38cm w x 64cm d.[3"x15"x25"] for small parcels such as books, CDs, perfumes. Our medium size is 19cm h x 38cm w x 64cm d [7.5"x15"x25"] for small electronic devices, toys, cosmetics, clothes, and our largest size is 38cm h x 38cm w x 64cm d.for small kitchenwares such as a microwave or coffee machine. [15"x15"x25"]</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_business-clients">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients0" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What services do you provide?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients0">
+                                                We provide various service with our InPost Parcel Lockers. Our basic model is that our courier will pick up the parcel and deliver it to the InPost Parcel locker your customer has selected, where he/she can pick it up 24/7.</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients1" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What is the difference between you and other suppliers?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients1">
+                                                No line-ups, pick-up in 7 seconds, convenient for your customers! Our lockers can be found at outdoor locations such as supermarkets, retail stores and gas stations. This feature makes picking up easy, convenient and accessible 24/7! We aim to have 1,000 parcel lockers nationwide by the end of 2017, making us the largest network of its kind. We offer your customers the convenience they have come to expect.</div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients2" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How to start my adventure with InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients2">
+                                                Do you want to conveniently ship parcels? Create an account at Parcel Manager then integrate your company with InPost’s system. You can contact our sales rep to get the ball rolling using <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients3" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What is integration?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients3">
+                                                Integration is the process by which you will be given the functionality to offer InPost on your web shop. It is a very simple process which involves copying and pasting a few lines of code into your webpage or it might be provided by your e-commerce platform provider, who is it you use currently? <a href="/en/get-in-touch">Get in touch</a> with our team and we'll talk you through the process</div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients4" data-toggle="collapse" data-parent="#faq_business-clients">
+                                Do I have to change my website?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients4">
+                                                Integrating your website with our systems is a quick process that can be adjusted to meet your changing needs without having to do anything else.</div>
+                                        </div>
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients5" data-toggle="collapse" data-parent="#faq_business-clients">
+                                I do not have a registered firm. Can I send parcels via InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients5">
+                                                <strong>Yes.</strong> Even if you sell goods on the Internet you can use InPost parcel locker services.</div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients6" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How can I contact an InPost sales rep?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients6">
+                                                All you need to do is fill out this <a href="/en/get-in-touch">contact form</a> or write an e-mail directly to: <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients7" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How much does it cost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients7">
+                                                Integration is absolutely free. The cost of sending parcels will vary dependant on the volume being sent in a month and the service used; however we aim to provide the lowest cost for a next day service. The bigger the volume, the bigger the discount we can offer. <a href="/en/get-in-touch">Get in touch</a> and let us know how many items you send on a monthly basis.</div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients8" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How do I send parcels via InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients8">
+                                                We offer two options of sending parcels: We will pick it up or dispatch 24/7. You can choose the one that suits you best.
+                                                <br/>
+                                                <br/>
+                                                <h3>We will pick it up model:</h3><strong>1. Prepare your parcels for send</strong>
+                                                <br/>If you are sending at least 10 parcels, just register them in the Parcel Manager. If you are a big sender integrate with us to fully automate the delivery process. <a href="/en/get-in-touch?ref=startup">Contact us</a> to check how you can do it easily.
+                                                <br/><strong>2. Print the label</strong>
+                                                <br/>Before you send, you’ll need the address, e-mail address and phone number of your recipient, so we can inform them about the delivery. Then, simply select a destination InPost parcel locker and parcel size and finally, print the personalized label for your delivery.
+                                                <br/><strong>3. Hand your parcel to the courier</strong>
+                                                <br/>Put the labels on your parcels and hand them to the courier. We will organize regular pick-up of your parcels by a courier, even daily if needed.
+                                                <br/>
+                                                <br/>If you want to check on your parcel just click Track and to check on its current whereabouts. As soon as the parcel reaches its destination parcel locker, the recipient will be notified. It’s that easy!</div>
+                                        </div>
+                                        <div class="faq-l"><span>10.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients9" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How can the InPost API assist me?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients9">
+                                                API or Application Programming Interface is a free compatibility bridge between the Sender and InPost. Thanks to API you can easily add the InPost parcel shipment option. </div>
+                                        </div>
+                                        <div class="faq-l"><span>11.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients10" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How do I install the InPost API?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients10">
+                                                Download the documentation on the website <a href="">How to integrate.</a> Then please <a href="/en/get-in-touch?ref=startup">contact us.</a> Our IT Specialists are at your disposal, our Sales Representatives can provide all required information.</div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>12.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients11" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How do I report a delivery complaint?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients11">
+                                                Please contact <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a> briefly describing the situation (state the InPost parcel locker you selected, the date of the occurrence and so on).</div>
+                                        </div>
+                                        <div class="faq-l"><span>13.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients12" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What should I do if the locker doesn&#039;t open after entering the code?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients12">
+                                                Please double-check if the entered data was correct. If this does not help please contact our Helpdesk at 1-84-GO-INPOST.</div>
+                                        </div>
+                                        <div class="faq-l"><span>14.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients13" data-toggle="collapse" data-parent="#faq_business-clients">
+                                Why didn&#039;t I receive a text message / e-mail notification regarding parcel delivery?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients13">
+                                                No text message regarding parcel delivery to the InPost parcel locker could have resulted from supplying an incorrect cellphone number. Lack of an e-mail could have been caused by your e-mail application mistakenly treating it as spam. Should this be the case please let us know by e-mailing us at: <a href="mailto:sales@inpost24.ca">sales@inpost24.ca</a> briefly describing the situation (state the InPost parcel locker you selected, the date of the occurrence and so on).</div>
+                                        </div>
+                                        <div class="faq-l"><span>15.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients14" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What should I do if my package was not delivered?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients14">
+                                                If the parcel was not delivered to the InPost parcel locker, you should first check its status by using the  Track your parcel journey or Parcel Manager functions. Should the status still cause you concern please let us know by e-mailing us at: sales@inpost24.ca and briefly describing the situation (state the InPost parcel locker you selected including the date of the occurrence).</div>
+                                        </div>
+                                        <div class="faq-l"><span>16.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients15" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What if the Inpost locker I want to send my package to is not working?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients15">
+                                                In case of an InPost parcel locker failure please inform us of this incident by calling our technical helpdesk, which is available 24/7 briefly describing the situation (state the InPost parcel locker you selected including the date of the occurrence).</div>
+                                        </div>
+                                        <div class="faq-l"><span>17.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients16" data-toggle="collapse" data-parent="#faq_business-clients">
+                                Are parcel lockers secure?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients16">
+                                                The parcel lockers are very secure. They are located in areas that are well lit, are busy with shoppers and also have security cameras record delivery and collection activity. We provide your customers with a unique ‘one-time-only’ pick-up code for each individual pick-up. The system will confirm when the pick-up has been made by the customer and send confirmation back to you.</div>
+                                        </div>
+                                        <div class="faq-l"><span>18.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients17" data-toggle="collapse" data-parent="#faq_business-clients">
+                                How does a customer pick up a parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients17">
+                                                When the package arrives at the parcel locker, the customer will receive a text message and an e-mail with their access code and the location of the parcel locker. The access code can be a code or a 6 digit numerical code. A code is sent via text message (with a clickable link which shows the code) and an e-mail (as an attachment). Pickin up a parcel with a code takes only 7 seconds – simply scan the code at the collection parcel locker. Pickin up the parcel using a numerical code takes only few seconds more, just key in the code on the parcel locker screen. And of course your customer can pick up the parcel when it is convenient for them.</div>
+                                        </div>
+                                        <div class="faq-l"><span>19.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients18" data-toggle="collapse" data-parent="#faq_business-clients">
+                                Can you provide a return services?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients18">
+                                                Yes, the parcel lockers can be used for returns. The customer will be given a return label enclosed by you or generated online. They will then return the package to the parcel locker where it will be picked up and returned by our courier. Do you have a specific returns policy currently?</div>
+                                        </div>
+                                        <div class="faq-l"><span>20.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients19" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What is the maximum size and weight you carry?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients19">
+                                                The maximum weight is 20Kg/44lb and the maximum size is 38cm x 38 cm x 64cm [15"x15"x25"]</div>
+                                        </div>
+                                        <div class="faq-l"><span>21.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients20" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What are the dimensions of the compartments in the parcel locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients20">
+                                                There are three different locker sizes::
+                                                <br/> S - 8cm high x 38cm wide x 640cm deep [3"x15"x25"]
+                                                <br/> M - 19cm x 38cm x 64cm [7.5"x15"x25"]
+                                                <br/> L - 38 cm x 38cm x 64cm [15"x15"x25"]
+                                                <br/> What sizes are the majority of packages that you send out?</div>
+                                        </div>
+                                        <div class="faq-l"><span>22.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_business-clients21" data-toggle="collapse" data-parent="#faq_business-clients">
+                                What are the parcel locker specifications?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_business-clients21">
+                                                1) Electrically powered using the equivalent to power a computer. The electricity is provided by the host site but each of the parcel lockers also has a battery as back up should it be needed.
+                                                <br/> 2) Voice interaction on parcel lockers, so the machine ‘welcomes’ your customers
+                                                <br/> 3) Similar technology to a mobile for communication: mobile SIM cards are used, so very reliable.
+                                                <br/> 4) Each parcel locker has about 54 individual lockers to make them economically viable which means that they are approx. 3 metres wide and 2.5metres high
+                                                <br/> 5) We also have a Modular version which means we can vary the number of lockers depending on the site requirements
+                                                <br/> 6) Modular parcel lockers can be extended by adding modules to a maximum of 200 boxes.
+                                                <br/> 7) Both models are illuminated with LED lighting strips.
+                                                <br/> 8) Two security cameras are mounted at both ends of the canopy and one in the centre console which record transactions on to a hard disk.
+                                                <br/> 9) The parcel lockers can be anchored if required, otherwise they are set on concrete foundation.
+                                                <br/> 10) Weighs about 2.5 tons when empty.
+                                                <br/> 11) The sites are on multi-year contracts so this will allow your customers to have confidence in their long term reliability.
+                                                <br/> The specifications are really quite thorough and of course they have been in operation in Poland for six years now, so we know they work very well.
+                                                <br/> How do you think your customers would like them?</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_site-hosts">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts0" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the requirements for installing a locker at my premises?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts0">
+                                                Place an InPost parcel locker at your premises and benefit from increased traffic to your location as customers pick up their parcels. InPost will provide regular maintenance of the locker. We are looking for various locations and offer real opportunities for different site hosts.</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts1" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the benefits for installing a locker for a banking sector?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts1">
+                                                <p>By installing an InPost Parcel Locker 24/7 at your premises you will be able to:</p>
+                                                <ol>
+                                                    <li>Attract more time-conscious customers to your bank branches resulting in more <b>revenue</b> and <b>transactions</b>. InPost parcel lockers are used on average 1500 times per month, which means 1500 more interactions with your ATM. Part of these 1500 can be cash withdrawals (customers would complete two tasks at once to save time). </li>
+                                                    <li>Increase number of interactions between customers and your bank and make them more loyal. <b>More marketing opportunities</b> – 1500 times more customers see your bank logo / name / ads on your ATM. Cross-selling / up-selling promotions available for InPost customers. </li>
+                                                    <li>Increase number of transactions made on your ATMs. <b>Expansion opportunities</b> – additional fees and transactions can support ATM expansion plans, deploying more machines in places where previously this was not economically justified.</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts2" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the benefits for installing a locker in the retail sector?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts2">
+                                                <p>By installing an InPost Parcel Locker 24/7 at your premises you will be able to:</p>
+                                                <ol>
+                                                    <li>Extend your opening hours and offer 24/7 collection. Offer your customers a Click & Collect service allowing them to pick up their purchases via InPost lockers, 24/7 including weekends and bank holidays, regardless of the shop’s opening hours. Additionally, we are planning to offer refrigerated lockers, giving you the possibility to offer fresh groceries or other items that require cooling. </li>
+                                                    <li>Generate additional revenues from your core business as a result of increased foot traffic. Our parcel lockers bring new customers to our partner stores – InPost lockers are used on average 1500 times per month, which means 1500 more people in the direct vicinity of your stores = potential customers. These new customers spend on average almost the same amounts as on usual store visits. </li>
+                                                    <li>Generate additional revenues – InPost parcel locker as an advertising space. InPost parcel lockers offer the possibility of generating additional revenues by turning the machine’s back and sides into advertising space. The impressive locker size (height: 2.22m, width: 2.98m, depth: 0.95m) [7.28'x9.77'x3.1']and its convenient location, makes it an attractive commercial space allowing for an extensive advertisement.</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts3" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the benefits of installing a locker for public transportation hubs?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts3">
+                                                <p>By installing an InPost Parcel Locker 24/7 at your premises you will be able to:</p>
+                                                <ol>
+                                                    <li>Commercialize unused space. Install an InPost parcel locker at your premises, making sure that it is easily accessible for the general public and benefit from shared revenue. </li>
+                                                    <li>Offer free of charge Click & Collect 24/7 for stores at your station. Provide an additional selling channel located at your station. The goods can be delivered to parcel lockers and collected by clients at their convenience around the clock, even outside of shops’ regular opening hours. According to research conducted by InPost, 37% of parcels are collected during night hours (18:00 - 08:00). Benefit from the shops’ incremental sales by adding this service. </li>
+                                                    <li>Offer own services via parcel lockers. Develop your own service with InPost parcel lockers using the automated pick-up/drop-off solution. Maximize the opportunity for your own purposes. </li>
+                                                    <li>Generate additional revenues – InPost parcel locker as an advertising space. InPost parcel lockers offer a possibility to generate additional revenues by turning the machine’s back and sides into advertising space. The impressive locker size (height: 2.22m, width: 2.98m, depth: 0.95m) [7.28'x9.77'x3.1']and its convenient location, makes it an attractive commercial space allowing for an extensive advertisement. </li>
+                                                    <li>Increase attractiveness and competitive advantage of your commercial space. More revenue at stores located at your station – InPost lockers are used on average 1500 times per month, which means 1500 more people in the direct vicinity of your stores = potential customers. Public trannsportation hubs will become more friendly and modern, with the possibility of implementing co-branding on the parcel machines.</li>
+                                                    </ul>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts4" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the benefits for installing a locker at gas stations?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts4">
+                                                <p>By installing an InPost Parcel Locker 24/7 at your premises you will be able to:</p>
+                                                <ol>
+                                                    <li>Generate additional revenues from your core business as a result of increased footfall. Our parcel lockers bring new customers to our partner stores – InPost lockers are used on average 1500 times per month, which means 1500 more people in the direct vicinity of your stores = potential customers. According to an InPost survey, 13% of parcel locker users make extra purchases during their parcel pickup visit and 56% declare fuel tank during next APM visit. 47% of gas stations regular customers visit Gas stations deliberately to pick up a parcel. </li>
+                                                    <li>Commercialize unused space. Install an InPost parcel locker at your premises, making sure that it is easily accessible for the general public and benefit from shared revenue generated by parcel lockers. </li>
+                                                    <li>Generate additional revenues – InPost parcel locker as an advertising space. InPost parcel lockers offer a possibility to generate additional revenues by turning the machine’s back and sides into advertising space. The impressive locker size (height: 2.22m, width: 2.98m, depth: 0.95m) [7.28'x9.77'x3.1'] and its convenient location, makes it an attractive commercial space allowing for an extensive advertisement. </li>
+                                                    <li>Parcel lockers can facilitate the brand’s loyalty programs. Develop your brand’s loyalty programs with InPost parcel lockers by facilitating automated pick-up and drop-off solution for your own purposes (e.g.: distribution of loyalty awards, gadgets etc.)</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts5" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the benefits for installing a locker for business parks?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts5">
+                                                <p>By installing an InPost Parcel Locker 24/7 at your premises you will be able to:</p>
+                                                <ol>
+                                                    <li>Facilitate mailroom function. With InPost parcel lockers, private deliveries will no longer occupy the reception area and mix with business mail. This relieves the admin staff from unnecessary distraction caused by collecting the delivery and then searching for the recipient.</li>
+                                                    <li>Offer convenience to your employees who will no longer need to leave the office to meet with a courier and collect their delivery. </li>
+                                                    <li>Commercialize unused space. Install an InPost parcel locker at your premises, making sure that it is easily accessible for the general public and benefit from shared revenue generated by parcel lockers. </li>
+                                                    <li>Generate additional revenues. InPost parcel lockers offer a possibility to generate additional revenues by turning the machine’s back and sides into advertising space. The impressive locker size (height: 2.22m, width: 2.98m, depth: 0.95m) [7.28'x9.77'x3.1'] and its convenient location, makes it an attractive commercial space allowing for an extensive advertisement.</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts6" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the locker-box sizes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts6">
+                                                <p>Our locker-box sizes are as follows:
+                                                    <br/> S: 8cm h x 38cm w x 64cm d [3"x15"x25"]
+                                                    <br/> M: 19cm h x 38cm w x 64cm d [7.5"x15"x25"]
+                                                    <br/> L: 38cm h x 38cm w x 64cm d [15"x15"x25"]</p>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts7" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What does it mean that InPost Parcel Lockers are modular?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts7">
+                                                <p>InPost Parcel Lockers 24/7 can be flexibly configured to fit your space. Each locker consists of a central steering unit and single locker modules in a number you like. Single modules can be added / removed to adjust capacity.
+                                                    <br/> <b>Single locker module:</b>
+                                                    <br/> Width: 565mm/22.2"
+                                                    <br/> Height: 2221mm-2300mm/87.4"-90.5"
+                                                    <br/> Depth: 942mm/37.08"
+                                                    <br/> Weight: ~200kg/485lbs</p>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_site-hosts8" data-toggle="collapse" data-parent="#faq_site-hosts">
+                                What are the technical requirements for installing InPost Parcel Locker 24/7?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_site-hosts8">
+                                                <p><b>Location surface and its preparation</b>
+                                                    <br/> InPost Parcel Locker 24/7 weighs 2.5 tonnes, which is why it is particularly important to ensure a stable surface for it - it must be hard and even. The maximum allowable difference of surface level between the highest and the lowest points cannot exceed 8cm [3 inches]; this is the range of built-in adjustable feet. After set up, the parcel locker must be properly levelled.
+                                                    <br/> If the surface beneath the machine is not hard, we would use concrete slabs. For a detailed description of the process, please go to Installing a parcel terminal.
+                                                    <br/>
+                                                    <br/> <b>Power source </b>
+                                                    <br/> InPost Parcel Locker 24/7 requires a standard power grid connection, 230 V AC and frequency of 50 Hz. The machine requires between 100 and 1000 VA, depending on the working conditions (temperature, humidity).
+                                                    <br/> In addition to the above requirements, please observe the following installation parameters: </p>
+                                                <ul>
+                                                    <li>protect against electrical injury by properly installing grounding and a dedicated parcel locker power switch </li>
+                                                    <li>ensure surge protection</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_virtual-address">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address0" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How does Virtual Address work?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address0">
+                                                Our InPost Virtual Address service is a new way for Canadians to take control over their parcel deliveries! Just set up an account and select the InPost Locker where you would like to receive your deliveries and we’ll provide you with your very own Virtual Address. From then on use your Virtual Address in place of your shipping address for deliveries and we’ll receive the parcel on your behalf and deliver it to the InPost Locker of your choice. As soon as the item arrives in the locker you will be notified via email and text message that your delivery is waiting for you with pickup available 24 hours a day 7 days a week!</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address1" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Can I change my preferred InPost Locker destination?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address1">
+                                                Updating your InPost Locker of choice is simple; just login to your profile and change your locker location to any other locker in the Virtual Address network and confirm. Just remember, we’re going to deliver the parcel to the locker that is selected in your profile, if you change the preferred locker after it’s out for delivery, it’s too late! If you make a mistake and select the wrong locker, please contact the Virtual Address Customer Support team at 1(844) 646-7678 for 24/7 assistance in resolving your concern.</div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address2" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Can I use my Virtual Address account to make purchases from companies that won&#039;t ship to a P.O. Box?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address2">
+                                                Yes, unlike other package forwarding companies, we offer you a physical address instead of a P.O. Box. You will be given an individual suite number at our distribution centre for your exclusive use.</div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address3" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                After signing up for a Virtual Address account, how soon can I begin using my new shipping address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address3">
+                                                After registration, you can immediately begin shipping to your Virtual Address.</div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address4" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What will my address look like? Is it a mailbox or P.O. Box?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address4">
+                                                You will have a physical address in the city of Toronto, Ontario, which will look similar to this:
+                                                <br>
+                                                <br>
+                                                <p>Suite <b>“Your Suite Number Here”</b>-55C Brown’s Line, Toronto, ON, M8W 3S2</p>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address5" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Why am I sending my item to 55C Brown’s Line, Toronto, ON, M8W 3S2 when my locker is located somewhere else?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address5">
+                                                That is the address of our distribution center where we’re accepting the parcel on your behalf. This is why it’s really important that you always enter your Virtual Address suite number when entering your address.</div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address6" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Is Virtual Address able to process deliveries arriving from outside of Canada?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address6">
+                                                Yes, Virtual Address is capable of receiving deliveries that originate from outside of Canada so long as there are no Cash on Delivery (C.O.D.), tax or import duty charges associated with the shipment. If you have interest in receiving shipments from another country, but are unsure of the process and the possibility of being charged please send us an e-mail to discuss how we can assist you.</div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address7" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What happens if something goes wrong with my Virtual Address delivery?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address7">
+                                                Please contact the Virtual Address customer support team if you have any questions or concerns throughout the process. You can contact the Virtual Address Customer Support team at 1(844) 646-7678; our team will always be available 24/7 to assist you with any concerns.</div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address8" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What is the Sign-up fee?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address8">
+                                                There is no fee to sign up for the Virtual Address service. The free registration process only takes a moment to complete, then you can instantly begin using your account after you have successfully registered.</div>
+                                        </div>
+                                        <div class="faq-l"><span>10.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address9" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What is the Cost of using the Virtual Address service?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address9">
+                                                There are two convenient ways to pay for the service: you can select the Monthly Subscription fee of $9.99 for unlimited parcels or the Pay as You Go single parcel fee of $4.99. Remember, the first parcel is free!</div>
+                                        </div>
+                                        <div class="faq-l"><span>11.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address10" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Do your prices include applicable taxes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address10">
+                                                Taxes are included in the basic price for the service.</div>
+                                        </div>
+                                        <div class="faq-l"><span>12.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address11" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Why has my payment been declined?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address11">
+                                                All payments for services at Virtual Address are processed through our payment processor Braintree. It is at the discretion of our payment processor to request for Virtual Address to deny a payment, deactivate an account and request for the customer to provide verification documents at any time. Any additional questions should be answered by the following: <a href="https://www.braintreepayments.com/en-ca/legal/payment-services-agreement" target="_blank">Braintree Terms of Service</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>13.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address12" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What is Virtual Address&#039;s policy on items damaged in transit?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address12">
+                                                The Virtual Address team will not accept damaged parcels. If you find there is cause for complaint once you receive your delivery please contact the Virtual Address Customer Support team at 1 (844) 646-7678 immediately for 24/7 assistance with your concern.</div>
+                                        </div>
+                                        <div class="faq-l"><span>14.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address13" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How do I file a claim with Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address13">
+                                                Please contact the Virtual Address Customer Support team at 1 (844) 646-7678 to file a claim if you feel there was an issue with your delivery after you have received it. We may require your help and you could be asked to fill out a Claim Form for submission along with providing photos of the damage. Depending on the situation; we may assist you in initiating a claim with the retailer, carrier or courier as necessary. Virtual Address Claims require a thorough investigation and may take several weeks to process. Claims with third parties like retailers, courier companies or carriers may take longer based on their internal claims investigation and resolution processes. You must contact the Virtual Address team with details about your claim within 48 hours of receiving your package.</div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>15.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address14" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Are there penalties for filing a false claim with Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address14">
+                                                In addition to being subject to local and international laws, filing a false claim may also result in the permanent deactivation of a Virtual Address account.</div>
+                                        </div>
+                                        <div class="faq-l"><span>16.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address15" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                If I file a successful claim with Virtual Address, what will be refunded?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address15">
+                                                You will be refunded the value of your purchase up to the claims maximum, but not the cost of shipping.</div>
+                                        </div>
+                                        <div class="faq-l"><span>17.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address16" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Are there any items that Virtual Address can&#039;t accept and deliver?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address16">
+                                                Please review the Virtual Address Terms and Conditions for a complete list of prohibited or restricted materials. You can find the terms and conditions here: <a href="https://inpost24.ca/en/t-c" target="_blank">Virtual Address Terms & Conditions</a>.</div>
+                                        </div>
+                                        <div class="faq-l"><span>18.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address17" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How are Prohibited or Restricted Materials handled?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address17">
+                                                If a Prohibited Item arrives in our warehouse, the item will not be accepted by the Virtual Address team.</div>
+                                        </div>
+                                        <div class="faq-l"><span>19.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address18" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What are the InPost Virtual Address standard locker compartment sizes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address18">
+                                                Virtual Address provides three possible box sizes for deliveries. The smallest size is 8cm h x 38cm w x 64cm [3"x15"x25"] for small parcels such as books, CDs, perfumes. Our medium size is 19cm h x 38cm w x 64cm [7.5"x15"x25"] for small electronic devices, toys, cosmetics, clothes, and our largest size is 38cm h x 38cm w x 64cm for small kitchen-ware such as a microwave or coffee machine. [15"x15"x25"] If you plan on shipping larger-than-normal merchandise, please contact our Virtual Address Customer Support team at 1(844) 646-7678 for 24/7 assistance prior to your purchase.</div>
+                                        </div>
+                                        <div class="faq-l"><span>20.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address19" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What if the parcel has Cash on Delivery (C.O.D.) charges, like duties and/or taxes to be paid?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address19">
+                                                If you receive a shipment of this nature, the Virtual Address team will refuse delivery and acceptance of the item.</div>
+                                        </div>
+                                        <div class="faq-l"><span>21.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address20" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What is Virtual Address’ relationship with the merchant?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address20">
+                                                The Virtual Address team has no direct affiliation with the merchant and we simply receive the parcel on your behalf. Any concerns that result from your relationship with the merchant based on your delivery must be addressed directly to them.</div>
+                                        </div>
+                                        <div class="faq-l"><span>22.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address21" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How do I return a parcel I received through Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address21">
+                                                Since the Virtual Address team has no direct affiliation with the merchant, we can’t accept returns on their behalf. To return a parcel, check out the return policy of the merchant and work with them directly.</div>
+                                        </div>
+                                        <div class="faq-l"><span>23.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address22" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                What if I forget to enter my suite number when using the Virtual Address service?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address22">
+                                                Please notify the Virtual Address Customer Support team at 1(844) 646-7678 the moment you have noticed so the issue may be resolved.</div>
+                                        </div>
+                                        <div class="faq-l"><span>24.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address23" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How long are unidentified items stored at Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address23">
+                                                The Virtual Address team will hold the item for 90 days in an effort to provide our clients the best possible opportunity to contact us and resolve the issue. Items that are remaining after this period will be destroyed.</div>
+                                        </div>
+                                        <div class="faq-l"><span>25.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address24" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                How do I contact Virtual Address customer support?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address24">
+                                                Our customer support team are here to help you, 24/7. They can be reached at 1(844) 646-7678, or please visit our <a href="https://inpost24.ca/en/get-in-touch" target="_blank">Get in Touch</a> page to find your most convenient method of reaching us.</div>
+                                        </div>
+                                        <div class="faq-l"><span>26.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address25" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                Why did I receive an email from Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address25">
+                                                If you received an email from Virtual Address you have entered your email address on our website and given us consent to email you regarding special offers we have available. If you no longer wish to receive promotional emails please unsubscribe by selecting the “unsubscribe” link on the email you received.</div>
+                                        </div>
+                                        <div class="faq-l"><span>27.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_virtual-address26" data-toggle="collapse" data-parent="#faq_virtual-address">
+                                I opted out of marketing communication, why am I still receiving emails from Virtual Address?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_virtual-address26">
+                                                Although you have unsubscribed from receiving promotional emails you will still receive emails regarding your account or pending deliveries. To have an account with Virtual Address we do require a valid email address on file. If you would like to deactivate your account please login to your profile and select the Deactivate Account option from the menu.</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_locker-to-locker">
+                                    <div class="span6">
+
+                                        <div class="faq-l"><span>1.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker0" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                How does Locker to Locker work?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker0">
+                                                Our Locker to Locker service is a new shipping method for Canadians to send parcels. Instead of overpriced courier services, you can send a parcel from one InPost Parcel Locker to another. Just select the origin and destination InPost Parcel Locker, print the label, and drop off the parcel at the origin locker. InPost will then deliver the parcel to the other locker. As soon as the item arrives in your selected delivery locker your recipient will be notified via email and SMS that their delivery is waiting for them with pickup available 24/7! (Hint: we also allow you to “ship” your parcel to the same Locker compartment that you dropped it. Great for holding something securely at a convenient location to be picked up later.)</div>
+                                        </div>
+                                        <div class="faq-l"><span>2.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker1" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What happens if something goes wrong with my Locker to Locker delivery?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker1">
+                                                Please contact the InPost Parcel Locker to Locker Customer Support Team if you have any questions or concerns throughout the process. Our toll free phone number is 1(844) 646-7678 and our team will always be available 24/7 to assist you with any concerns.</div>
+                                        </div>
+                                        <div class="faq-l"><span>3.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker2" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What should I do with the PDF Label that I received by Email?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker2">
+                                                Simply print the label and attach it to your box and your parcel is ready for shipping.</div>
+                                        </div>
+                                        <div class="faq-l"><span>4.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker3" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Do I need to buy a box from InPost?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker3">
+                                                No, you do not need an InPost box to send your parcel. Simply use your best judgement in packing the item to ensure it will safely arrive at the destination locker for pickup.</div>
+                                        </div>
+                                        <div class="faq-l"><span>5.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker4" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What are the packaging requirements?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker4">
+                                                <ul>
+                                                    <li>Make sure the box, bag, or envelope will fit in an InPost compartment and that the contents are safely packed to prevent damage. </li>
+                                                    <li>Make sure you put the label on your parcel!!! </li>
+                                                    <li>Make sure you do not pack any prohibited items in your parcel. </li>
+                                                    <li>Contents must be secured and held firmly in place, it’s a good idea to use cushioning materials to surround the item to prevent movement. </li>
+                                                    <li>Two boxes or more cannot be strapped or taped together. </li>
+                                                    <li>Use packaging that is the right size and strength for your goods. </li>
+                                                    <li>Firmly seal all seams to ensure the parcel stays closed. </li>
+                                                    <li>InPost will do everything we can to deliver your parcel safely, but you are responsible for properly packing your parcel. </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="faq-l"><span>6.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker5" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                How do I open the locker to insert my parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker5">
+                                                Inserting a parcel is easy. Select your preferred language on the machine and simply scan the barcode on the label and the door will automatically open. Once you have safely placed your item simply close the door and it will be ready for delivery.</div>
+                                        </div>
+                                        <div class="faq-l"><span>7.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker6" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                How do I open the locker to retrieve my parcel?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker6">
+                                                You will receive an SMS and an email with the secure information on how to obtain your parcel. Once you arrive at the locker simply select your language and scan the QR code or enter the access codes that you will receive in your message to open the locker and retrieve your parcel.</div>
+                                        </div>
+                                        <div class="faq-l"><span>8.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker7" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What if I didn’t attach the label to the parcel and did not leave it in the locker?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker7">
+                                                After you’ve closed the compartment, you can always re-open the compartment by pressing “Open Again” on the InPost Locker. If you have already pressed the “Next” button, please contact the InPost Locker to Locker Customer Support Team <b>immediately</b> at 1(844) 646-7678, so they can help you resolve this issue.</div>
+                                        </div>
+                                        <div class="faq-l"><span>9.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker8" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What if the parcel I sent doesn’t get picked up by the person I’m sending it to?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker8">
+                                                If a parcel is not picked up by the customer within 3 days at the destination InPost Parcel Locker, we will return the parcel back to the InPost distribution centre closest to the origin locker. The sender will have 12 days to pick up the parcel from the distribution centre free of charge. If the sender does not pick up the parcel after 12 days, we will store the parcel in our warehouse for 90 days, if collected within the 90 days, the sender may be subject to a processing fee. If no one collects the parcel within 90 days, InPost will destroy the parcel.</div>
+                                        </div>
+                                        <div class="faq-l"><span>10.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker9" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Can I put more than one parcel in a compartment?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker9">
+                                                No, in order to effectively safeguard, track and trace your parcel delivery it must be labelled and be placed as a single item within an InPost Parcel Locker compartment. If you place more than one item in the locker, even if it is going to the same recipient locker – the un-scanned/labelled item(s) will not be delivered and will be held at the local depot for 90 days; beyond 90 days the locker to locker team may be required to dispose of the item. If you feel this might be the situation with your parcel(s); simply contact the Locker to Locker Customer Support team at 1(844) 646-7678 for assistance. What happens if the machine is full or not working and I would like to deposit a parcel? Simply drop the parcel off at the next closest InPost Parcel Locker. Please click the following link: <a href="https://inpost24.ca/en/for-you/where-is-your-locker" target="_blank">Locker Locator</a> to find the next closest locker.</div>
+                                        </div>
+                                    </div>
+                                    <div class="span6">
+                                        <div class="faq-l"><span>11.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker10" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What is the Sign-up fee?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker10">
+                                                There is no fee to sign up for the InPost Locker to Locker service!</div>
+                                        </div>
+                                        <div class="faq-l"><span>12.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker11" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What is the Cost of using the InPost Locker to Locker service?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker11">
+                                                There are two convenient ways to pay for the service: the Pay as You Go single parcel fee of $4.99, or when using the locker as a temporary storage point the fee will be $2.49</div>
+                                        </div>
+                                        <div class="faq-l"><span>13.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker12" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Do your prices include applicable taxes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker12">
+                                                No, taxes are charged separately and will be added to the total cost for the service.</div>
+                                        </div>
+                                        <div class="faq-l"><span>14.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker13" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Why has my payment been declined?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker13">
+                                                All payments for services at Locker to Locker are processed through our payment processor Braintree. It is at the discretion of our payment processor to request for Locker to Locker to deny a payment, deactivate an account and request for the customer to provide verification documents at any time. Any additional questions should be answered by the following: <a href="https://www.braintreepayments.com/en-ca/legal/payment-services-agreement" target="_blank">Braintree Terms of Service</a></div>
+                                        </div>
+                                        <div class="faq-l"><span>15.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker14" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What is InPost’s policy on items damaged in transit?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker14">
+                                                In the case of loss or damage to all or part of a shipment, InPost will refund the shipping charges for the affected package by the same method as you used in paying for our services where possible. Please see our <a href="https://inpost24.ca/en/t-c" target="_blank">Terms and Conditions</a> for a full description of our Refunds, Returns, and Claims policy.</div>
+                                        </div>
+                                        <div class="faq-l"><span>16.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker15" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Are there any items that Locker to Locker can&#039;t accept and deliver?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker15">
+                                                Please review our <a href="https://inpost24.ca/en/t-c" target="_blank">Terms and Conditions</a> for a complete list of prohibited or restricted materials.</div>
+                                        </div>
+                                        <div class="faq-l"><span>17.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker16" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                How are Prohibited or Restricted Materials handled?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker16">
+                                                If a Prohibited Item is identified by the InPost team, InPost reserves the right to seize the parcel and either hand it over to the proper authorities or destroy it immediately. Both the sender and receiver of Prohibited Items may be subject to prosecution.</div>
+                                        </div>
+                                        <div class="faq-l"><span>18.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker17" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                What are the InPost Locker to Locker standard locker compartment sizes?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker17">
+                                                Locker to Locker provides three possible box sizes for deliveries. The smallest size is 8cm high x 38cm wide x 64cm deep [3"x15"x25"] for small parcels such as books, CDs, perfumes. Our medium size is 19cm high x 38cm wide x 64cm deep [7.5"x15"x25"] for small electronic devices, toys, cosmetics, clothes, and our largest size is 38cm high x 38cm wide x 64cm deep for small kitchen-ware such as a microwave or coffee machine. [15"x15"x25"]</div>
+                                        </div>
+                                        <div class="faq-l"><span>19.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker18" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                How do I contact the InPost Locker to Locker customer support?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker18">
+                                                Our Customer Support Team is here to help you 24/7. We can be reached at 1(844) 646-7678, or please visit our <a href="https://inpost24.ca/en/get-in-touch" target="_blank">Get in Touch</a> page to find your most convenient method of reaching us.</div>
+                                        </div>
+                                        <div class="faq-l"><span>20.</span></div>
+                                        <div class="faq-s">
+                                            <div class="faq-q">
+                                                <a href="#info_locker-to-locker19" data-toggle="collapse" data-parent="#faq_locker-to-locker">
+                                Why did I receive an email from InPost’s Locker to Locker Team?</a>
+                                            </div>
+
+                                            <div class="collapse faq-a" id="info_locker-to-locker19">
+                                                If you received an email from InPost’s Locker to Locker Team you have either decided to send a parcel or someone is sending a parcel to you! If you did not initiate a Locker to Locker shipment or you do not know who is sending you a parcel, please contact the InPost Locker to Locker Customer Support Team <b>immediately</b> at 1(844) 646-7678, so they can help you resolve this issue.</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="row faq tab-pane" id="faq_wirtualny_doradca">
+                                    <div class="span12 centered">
+                                        <div style="width: 867; height; 355;">
+                                            <div id="wirtualny">wirtualny doradca</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END CONTENT -->
+
+        <div id="push"></div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <div class="container-fluid footer-fluid  footer-fixed ">
+
+        <div class="row-fluid" id="footer-bg"></div>
+        <div class="row-fluid" id="footer">
+            <div class="span12">
+                <div class="container" style="position: relative;">
+
+                    <!-- NAVIGATION -->
+                    <div class="startnavi-2 hide">
+                        <ul>
+                        </ul>
+                        <div class="nav-movie">
+                            <a href="#" id="skip" class="btn btn-primary hide"><span>skip intro</span></a>
+                            <a href="#" id="play" class="btn btn-primary hide"><span>play intro</span></a>
+                        </div>
+                    </div>
+                    <!-- END NAVIGATION -->
+
+                    <div class="row">
+
+                        <!-- FOOTER MENU -->
+                        <div class="span10">
+                            <div id="menu-footer">
+
+                                <ul class="nav nav-pills  lang-en">
+
+                                    <li id="mm32">
+                                        <a href=/en/the-boring-stuff target="_self"><span class="maintitle">The </span><span class="subtitle">Boring Stuff </span></a>
+                                    </li>
+
+                                    <li id="mm33">
+                                        <a href=/en/inpost/news target="_self"><span class="maintitle">News </span><span class="subtitle">& Events </span></a>
+                                    </li>
+
+                                    <li id="mm38">
+                                        <a href=/en/host-an-inpost-parcel-locker target="_self"><span class="maintitle">Host </span><span class="subtitle">an InPost Parcel Locker </span></a>
+                                    </li>
+
+                                    <li id="mm37" class="active">
+                                        <a href=/en/faq target="_self"><span class="maintitle">FAQ </span><span class="subtitle"></span></a>
+                                    </li>
+
+                                    <li id="mm39">
+                                        <a href=/en/what-users-say target="_self"><span class="maintitle">What </span><span class="subtitle">users say </span></a>
+                                    </li>
+
+                                    <li id="mm40">
+                                        <a href=/en/get-in-touch target="_self"><span class="maintitle">Get </span><span class="subtitle">in touch </span></a>
+                                    </li>
+
+                                    <li id="mm34">
+                                        <a href=/en/meet-the-team target="_self"><span class="maintitle">Meet </span><span class="subtitle">the team </span></a>
+                                    </li>
+
+                                    <li id="mm35">
+                                        <a href=/en/awards target="_self"><span class="maintitle">Awards </span><span class="subtitle"></span></a>
+                                    </li>
+
+                                    <li id="mm109">
+                                        <a href=/en/privacy-policy target="_self"><span class="maintitle">Privacy </span><span class="subtitle">Policy </span></a>
+                                    </li>
+
+                                    <li id="mm113">
+                                        <a href=/en/t-c target="_self"><span class="maintitle">T&C </span><span class="subtitle"></span></a>
+                                    </li>
+
+                                    <li id="mm144">
+                                        <a href=/en/careers target="_self"><span class="maintitle">Careers </span><span class="subtitle"></span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- END FOOTER MENU -->
+
+                        <div class="span2">
+                            <div class="logo"><img src="/images/simply-08dc9b9.png" alt="" /></div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="span4">
+                            <div class="copy">&copy; 2016 InPost Canada Inc.</div>
+                        </div>
+                        <div class="span4 centered">
+                            <div class="phone">1-84-GO-INPOST</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span12">
+                            <p class="webmaster text-center">To report a fault or other technical issue on this website email <a href="mailto:webmaster@inpost24.com">webmaster@inpost24.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END FOOTER -->
+
+    <script type="text/javascript">
+        $(function() {
+
+            // wirtualny doradca
+            var flashvars = {};
+            flashvars.avatarPath = 'http://mars.stanuschtechnologies.pl/aio/bots/inpost_paczkomaty_new/avatar.xml';
+            flashvars.viralScript = 'http://www.paczkomaty.pl/paczkomaty2010/includes/virtualAdvisorResponder.php';
+            flashvars.playerId = 1;
+            flashvars.topicFemale = 'Zabawiałem się z Twoją koleżanką';
+            flashvars.topicMale = 'Zabawiałam się z Twoim kolegą';
+
+            var params = {};
+            params.wmode = "transparent";
+            params.allowscriptaccess = "always";
+            params.allownetworking = "all";
+            params.allowfullscreen = true;
+            params.bgcolor = "#fff";
+            params.quality = "high";
+            params.base = ".";
+            params.menu = "false";
+
+            var attributes = {};
+            attributes.id = "boxVirtualAdviser";
+            attributes.name = "boxVirtualAdviser";
+
+            var randomnumber = Math.floor(Math.random() * 10000);
+
+            swfobject.embedSWF("http://mars.stanuschtechnologies.pl/aio/bots/inpost_paczkomaty_new/dorota.swf", "wirtualny", "867", "355", "9.0.0", "", flashvars, params, attributes);
+            // wirtualny doradca EOF
+
+            $('#nav-faq a').click(function(e) {
+                // No e.preventDefault() here.
+                window.location.hash = this.hash;
+                $(this).tab('show');
+            });
+
+            if (window.location.hash != '') {
+                //   alert(window.location.hash);
+
+                $('#nav-faq a[href="' + window.location.hash + '"]').tab('show');
+            } else {
+                $('#nav-faq a:first').tab('show');
+            }
+
+        })
+    </script>
+<!--
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-11082268-48', 'auto');
+        ga('send', 'pageview');
+    </script>
+-->
+</body>
+
+</html>
