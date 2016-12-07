@@ -7204,63 +7204,63 @@ button.close {
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,latin-ext);
 @font-face {
     font-family: TSTARPRORegular;
-    src: url("T-StarProWeb/TSTARPRO-RegularWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-RegularWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-RegularWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-RegularWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPRORegular;
-    src: url("T-StarProWeb/TSTARPRO-BoldWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-BoldWeb.woff") format("woff");
+    src: url("css/T-StarProWeb/TSTARPRO-BoldWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-BoldWeb.woff") format("woff");
     font-weight: bold
 }
 
 @font-face {
     font-family: TSTARPROLight;
-    src: url("T-StarProWeb/TSTARPRO-LightWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-LightWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-LightWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-LightWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROMedium;
-    src: url("T-StarProWeb/TSTARPRO-MediumWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-MediumWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-MediumWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-MediumWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROBold;
-    src: url("T-StarProWeb/TSTARPRO-BoldWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-BoldWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-BoldWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-BoldWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROHeadline;
-    src: url("T-StarProWeb/TSTARPRO-HeadlineWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-HeadlineWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-HeadlineWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-HeadlineWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROItalic;
-    src: url("T-StarProWeb/TSTARPRO-ItalicWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-ItalicWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-ItalicWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-ItalicWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROLightItalic;
-    src: url("T-StarProWeb/TSTARPRO-LightItalicWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-LightItalicWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-LightItalicWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-LightItalicWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROMediumItalic;
-    src: url("T-StarProWeb/TSTARPRO-MediumItalicWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-MediumItalicWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-MediumItalicWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-MediumItalicWeb.woff") format("woff")
 }
 
 @font-face {
     font-family: TSTARPROBoldItalic;
-    src: url("T-StarProWeb/TSTARPRO-BoldItalicWeb.eot");
-    src: url("T-StarProWeb/TSTARPRO-BoldItalicWeb.woff") format("woff")
+    src: url("css/T-StarProWeb/TSTARPRO-BoldItalicWeb.eot");
+    src: url("css/T-StarProWeb/TSTARPRO-BoldItalicWeb.woff") format("woff")
 }
 
 #header .menu-main a span.maintitle {
@@ -7468,7 +7468,7 @@ BODY {
 }
 
 #startbody #footer-bg {
-    background: url(../images/footer-bg.png) center top repeat-x;
+    background: url(images/footer-bg.png) center top repeat-x;
     opacity: .95;
     filter: alpha(opacity=95);
     width: 100%;
@@ -7641,7 +7641,7 @@ BODY {
 }
 
 .startnavi #start-prev {
-    background-image: url(../images/start-prev.png);
+    background-image: url(images/start-prev.png);
     left: 0
 }
 
@@ -7701,7 +7701,7 @@ BODY {
 }
 
 #startgallery.b2b .slide1 {
-    background: url(../images/home/B2C/home-1.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-1.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2b .slide2 {
@@ -7713,15 +7713,15 @@ BODY {
 }
 
 #startgallery.b2b .slide3 {
-    background: url(../images/home/B2C/home-3.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-3.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2b .slide4 {
-    background: url(../images/home/B2C/home-4.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-4.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2b .slide5 {
-    background: url(../images/home/B2C/home-5.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-5.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2c DIV DIV {
@@ -7730,7 +7730,7 @@ BODY {
 }
 
 #startgallery.b2c .slide1 {
-    background: url(../images/home/B2C/home-1.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-1.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2c .slide2 {
@@ -7738,7 +7738,7 @@ BODY {
 }
 
 #startgallery.b2c .slide2 DIV {
-    background: url(../images/home/B2C/hand-phone-bg-ca.png) center bottom no-repeat
+    background: url(images/home/B2C/hand-phone-bg-ca.png) center bottom no-repeat
 }
 
 #startgallery.b2c.fr .slide2 {
@@ -7746,19 +7746,19 @@ BODY {
 }
 
 #startgallery.b2c.fr .slide2 DIV {
-    background: url(../images/home/B2C/hand-phone-bg-ca-FR.png) center bottom no-repeat
+    background: url(images/home/B2C/hand-phone-bg-ca-FR.png) center bottom no-repeat
 }
 
 #startgallery.b2c .slide3 {
-    background: url(../images/home/B2C/home-3.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-3.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2c .slide4 {
-    background: url(../images/home/B2C/home-4.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-4.jpg) center bottom no-repeat #fff
 }
 
 #startgallery.b2c .slide5 {
-    background: url(../images/home/B2C/home-5.jpg) center bottom no-repeat #fff
+    background: url(images/home/B2C/home-5.jpg) center bottom no-repeat #fff
 }
 
 #start-gallery-content .item {
@@ -8110,12 +8110,12 @@ HR {
 }
 
 #header .menu-switch A {
-    background: url(../images/divider-small.png) 5px center no-repeat;
+    background: url(images/divider-small.png) 5px center no-repeat;
     padding: 8px 16px 4px 16px
 }
 
 #header .menu-switch .track A {
-    background-image: url(../images/zoom.png);
+    background-image: url(images/zoom.png);
     background-position: left center
 }
 
@@ -8347,7 +8347,7 @@ HR {
     margin: 0 auto;
     padding-bottom: 5px;
     font-size: 15px;
-    background: url(../images/phone.png) left center no-repeat
+    background: url(images/phone.png) left center no-repeat
 }
 
 #menu-social {
@@ -8382,19 +8382,19 @@ HR {
 }
 
 #menu-social .nav-pills.menu-social .fb {
-    background-image: url(../images/menu-social-fb.png) !important
+    background-image: url(images/menu-social-fb.png) !important
 }
 
 #menu-social .nav-pills.menu-social .twitter {
-    background-image: url(../images/menu-social-twitter.png) !important
+    background-image: url(images/menu-social-twitter.png) !important
 }
 
 #menu-social .nav-pills.menu-social .linkedin {
-    background-image: url(../images/menu-social-linkedin.png) !important
+    background-image: url(images/menu-social-linkedin.png) !important
 }
 
 #menu-social .nav-pills.menu-social .youtube {
-    background-image: url(../images/menu-social-youtube.png) !important
+    background-image: url(images/menu-social-youtube.png) !important
 }
 
 #menu-social .nav-pills.menu-social .active a {
@@ -8502,7 +8502,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 }
 
 #content LI {
-    background: url(../images/divider-small.png) left 5px no-repeat;
+    background: url(images/divider-small.png) left 5px no-repeat;
     padding-left: 15px;
     line-height: 19px;
     color: #888
@@ -8597,7 +8597,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 
 #content .infobox .arrow {
     display: block;
-    background-image: url(../images/gray_arrow.png);
+    background-image: url(images/gray_arrow.png);
     background-position: left top;
     background-repeat: no-repeat;
     position: absolute;
@@ -8617,7 +8617,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
     display: block;
     width: 63px;
     height: 68px;
-    background: url(../images/slider-left_sh.png) left top no-repeat
+    background: url(images/slider-left_sh.png) left top no-repeat
 }
 
 #content .prev span {
@@ -8629,7 +8629,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
     display: block;
     width: 63px;
     height: 68px;
-    background: url(../images/slider-right_sh.png) left top no-repeat
+    background: url(images/slider-right_sh.png) left top no-repeat
 }
 
 #content .next span {
@@ -8638,7 +8638,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 
 #content a.nav-back,
 #content a.nav-forward {
-    background: transparent url(../images/arrow_forward.png) no-repeat right 5px;
+    background: transparent url(images/arrow_forward.png) no-repeat right 5px;
     padding: 0 15px 0 0;
     color: #333;
     font-size: 12px;
@@ -8646,7 +8646,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 }
 
 #content a.nav-back {
-    background: transparent url(../images/arrow_back.png) no-repeat left 5px;
+    background: transparent url(images/arrow_back.png) no-repeat left 5px;
     padding: 0 0 0 15px
 }
 
@@ -8735,14 +8735,14 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 }
 
 #content .btn.checkbox {
-    background: transparent url(../images/checkbox_off.png) 4px 6px no-repeat;
+    background: transparent url(images/checkbox_off.png) 4px 6px no-repeat;
     border: 0;
     box-shadow: none;
     vertical-align: middle
 }
 
 #content .btn.checkbox.active {
-    background: transparent url(../images/checkbox_on.png) 4px 6px no-repeat;
+    background: transparent url(images/checkbox_on.png) 4px 6px no-repeat;
     border: 0;
     box-shadow: none
 }
@@ -8805,7 +8805,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 }
 
 #content .module-364 {
-    background: transparent url(../images/zosia-2.png) no-repeat right bottom;
+    background: transparent url(images/zosia-2.png) no-repeat right bottom;
     padding-bottom: 200px
 }
 
@@ -8914,7 +8914,7 @@ BODY.contact-relative #contentwrapper #little-girl-contact {
 
 .jakprzedluzyc-0 .icon,
 .jakprzedluzyc-1 .icon {
-    background-image: url(../images/jakprzedluzyc-0.png)
+    background-image: url(images/jakprzedluzyc-0.png)
 }
 
 DIV.jakodbierac DIV.infobox DIV {
@@ -8926,7 +8926,7 @@ DIV.jakodbierac DIV.infobox DIV {
 }
 
 .jakodbierac-0 .icon {
-    background-image: url(../images/jakodbierac-0.png)
+    background-image: url(images/jakodbierac-0.png)
 }
 
 .jakodbierac-1 div {
@@ -8934,7 +8934,7 @@ DIV.jakodbierac DIV.infobox DIV {
 }
 
 .jakodbierac-1 .icon {
-    background-image: url(../images/jakodbierac-1.png)
+    background-image: url(images/jakodbierac-1.png)
 }
 
 .jakodbierac-2 div {
@@ -8942,7 +8942,7 @@ DIV.jakodbierac DIV.infobox DIV {
 }
 
 .jakodbierac-2 .icon {
-    background-image: url(../images/jakodbierac-2.png)
+    background-image: url(images/jakodbierac-2.png)
 }
 
 DIV.jaknadawac DIV.infobox DIV {
@@ -8954,7 +8954,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-0 .icon {
-    background-image: url(../images/jaknadawac-0.png)
+    background-image: url(images/jaknadawac-0.png)
 }
 
 .jaknadawac-1 div {
@@ -8962,7 +8962,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-1 .icon {
-    background-image: url(../images/jaknadawac-1.png)
+    background-image: url(images/jaknadawac-1.png)
 }
 
 .jaknadawac-2 div {
@@ -8970,7 +8970,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-2 .icon {
-    background-image: url(../images/jaknadawac-2.png)
+    background-image: url(images/jaknadawac-2.png)
 }
 
 .jaknadawac-3 div {
@@ -8978,7 +8978,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-3 .icon {
-    background-image: url(../images/jaknadawac-3.png)
+    background-image: url(images/jaknadawac-3.png)
 }
 
 .jaknadawac-4 div {
@@ -8986,7 +8986,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-4 .icon {
-    background-image: url(../images/jaknadawac-4.png)
+    background-image: url(images/jaknadawac-4.png)
 }
 
 .jaknadawac-5 div {
@@ -8994,7 +8994,7 @@ DIV.jaknadawac DIV.infobox DIV {
 }
 
 .jaknadawac-5 .icon {
-    background-image: url(../images/jaknadawac-5.png)
+    background-image: url(images/jaknadawac-5.png)
 }
 
 DIV.jakzwracac DIV.infobox DIV {
@@ -9004,7 +9004,7 @@ DIV.jakzwracac DIV.infobox DIV {
 
 DIV.jakzwracac DIV.infobox .arrow-right {
     display: block;
-    background-image: url(../images/arrow_right.png);
+    background-image: url(images/arrow_right.png);
     background-position: left top;
     background-repeat: no-repeat;
     position: absolute;
@@ -9017,7 +9017,7 @@ DIV.jakzwracac DIV.infobox .arrow-right {
 
 DIV.jakzwracac DIV.infobox .arrow-bottom-left {
     display: block;
-    background-image: url(../images/arrow_bottom_left.png);
+    background-image: url(images/arrow_bottom_left.png);
     background-position: left top;
     background-repeat: no-repeat;
     position: absolute;
@@ -9038,7 +9038,7 @@ DIV.jakzwracac h3 {
 }
 
 .jakzwracac-0 .icon {
-    background-image: url(../images/jakzwracac-0.png)
+    background-image: url(images/jakzwracac-0.png)
 }
 
 .jakzwracac-1 div {
@@ -9046,7 +9046,7 @@ DIV.jakzwracac h3 {
 }
 
 .jakzwracac-1 .icon {
-    background-image: url(../images/jakzwracac-1.png)
+    background-image: url(images/jakzwracac-1.png)
 }
 
 .jakzwracac-2 div {
@@ -9054,7 +9054,7 @@ DIV.jakzwracac h3 {
 }
 
 .jakzwracac-2 .icon {
-    background-image: url(../images/jakzwracac-2.png)
+    background-image: url(images/jakzwracac-2.png)
 }
 
 .jakzwracac-3 div {
@@ -9062,7 +9062,7 @@ DIV.jakzwracac h3 {
 }
 
 .jakzwracac-3 .icon {
-    background-image: url(../images/jakzwracac-3.png)
+    background-image: url(images/jakzwracac-3.png)
 }
 
 DIV.korzysci-b2b {
@@ -9085,7 +9085,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-0 .icon {
-    background-image: url(../images/korzysci-b2b-0.png)
+    background-image: url(images/korzysci-b2b-0.png)
 }
 
 .korzysci-b2b-1 div {
@@ -9093,7 +9093,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-1 .icon {
-    background-image: url(../images/korzysci-b2b-1.png)
+    background-image: url(images/korzysci-b2b-1.png)
 }
 
 .korzysci-b2b-2 div {
@@ -9101,7 +9101,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-2 .icon {
-    background-image: url(../images/korzysci-b2b-2.png)
+    background-image: url(images/korzysci-b2b-2.png)
 }
 
 .korzysci-b2b-3 div {
@@ -9109,7 +9109,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-3 .icon {
-    background-image: url(../images/korzysci-b2b-3.png)
+    background-image: url(images/korzysci-b2b-3.png)
 }
 
 .korzysci-b2b-4 div {
@@ -9117,7 +9117,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-4 .icon {
-    background-image: url(../images/korzysci-b2b-4.png)
+    background-image: url(images/korzysci-b2b-4.png)
 }
 
 .korzysci-b2b-5 div {
@@ -9125,7 +9125,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-5 .icon {
-    background-image: url(../images/korzysci-b2b-5.png)
+    background-image: url(images/korzysci-b2b-5.png)
 }
 
 .korzysci-b2b-6 div {
@@ -9133,7 +9133,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-6 .icon {
-    background-image: url(../images/korzysci-b2b-6.png)
+    background-image: url(images/korzysci-b2b-6.png)
 }
 
 .korzysci-b2b-7 div {
@@ -9141,7 +9141,7 @@ DIV.korzysci-b2b DIV.infobox DIV {
 }
 
 .korzysci-b2b-7 .icon {
-    background-image: url(../images/korzysci-b2b-7.png)
+    background-image: url(images/korzysci-b2b-7.png)
 }
 
 .korzysci-b2b-8 {
@@ -9249,7 +9249,7 @@ DIV.integracja DIV.infobox DIV {
 }
 
 .integracja-0 .icon {
-    background-image: url(../images/integracja-0.png)
+    background-image: url(images/integracja-0.png)
 }
 
 .integracja-1 div {
@@ -9257,7 +9257,7 @@ DIV.integracja DIV.infobox DIV {
 }
 
 .integracja-1 .icon {
-    background-image: url(../images/integracja-1.png)
+    background-image: url(images/integracja-1.png)
 }
 
 .nadawanie {
@@ -9278,7 +9278,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .nadawanie-0 .icon {
-    background-image: url(../images/nadawanie-0.png)
+    background-image: url(images/nadawanie-0.png)
 }
 
 .nadawanie-1 div {
@@ -9286,7 +9286,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .nadawanie-1 .icon {
-    background-image: url(../images/nadawanie-1.png)
+    background-image: url(images/nadawanie-1.png)
 }
 
 .nadawanie-2 div {
@@ -9294,7 +9294,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .nadawanie-2 .icon {
-    background-image: url(../images/nadawanie-2.png)
+    background-image: url(images/nadawanie-2.png)
 }
 
 .referencje {
@@ -9346,7 +9346,7 @@ DIV.nadawanie DIV.infobox DIV {
     display: inline-block;
     width: 141px;
     height: 141px;
-    background: url(../images/partnerzy_bg.png) left top no-repeat;
+    background: url(images/partnerzy_bg.png) left top no-repeat;
     background-size: 100%;
     padding: 0;
     margin: 5px
@@ -9401,7 +9401,7 @@ DIV.nadawanie DIV.infobox DIV {
     font-weight: bold;
     text-align: center;
     margin-right: 10px;
-    background: transparent url(../images/faq-circle.png) no-repeat top left
+    background: transparent url(images/faq-circle.png) no-repeat top left
 }
 
 #content .faq .faq-s {
@@ -9480,7 +9480,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .promocje .newsletter {
-    background: transparent url(../images/korzysci-b2b-zosia.png) no-repeat top right
+    background: transparent url(images/korzysci-b2b-zosia.png) no-repeat top right
 }
 
 .promocje input[type="text"] {
@@ -9582,7 +9582,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .wyszukiwarka .btn {
-    background: url(../images/wysz_btn.png) no-repeat top left;
+    background: url(images/wysz_btn.png) no-repeat top left;
     width: 48px;
     height: 38px;
     border: 0;
@@ -9604,7 +9604,7 @@ DIV.nadawanie DIV.infobox DIV {
     font-size: 13px;
     line-height: 16px;
     border-bottom: 1px solid #fddf30;
-    background: #fff url(../images/wysz_corner.png) no-repeat top left
+    background: #fff url(images/wysz_corner.png) no-repeat top left
 }
 
 .wyszukiwarka .cycle .results .box DIV {
@@ -9658,7 +9658,7 @@ DIV.nadawanie DIV.infobox DIV {
     position: absolute;
     top: 280px;
     left: 20px;
-    background: transparent url(../images/gray_arrow_left.png) no-repeat 0 0;
+    background: transparent url(images/gray_arrow_left.png) no-repeat 0 0;
     width: 71px;
     height: 71px
 }
@@ -9667,7 +9667,7 @@ DIV.nadawanie DIV.infobox DIV {
     position: absolute;
     top: 280px;
     right: 0;
-    background: transparent url(../images/gray_arrow_right.png) no-repeat 0 0;
+    background: transparent url(images/gray_arrow_right.png) no-repeat 0 0;
     width: 71px;
     height: 71px
 }
@@ -9706,7 +9706,7 @@ DIV.nadawanie DIV.infobox DIV {
     text-align: center;
     width: 171px;
     height: 169px;
-    background: url(../images/partnerzy_bg.png) left top no-repeat;
+    background: url(images/partnerzy_bg.png) left top no-repeat;
     margin: 0 auto
 }
 
@@ -9801,13 +9801,13 @@ DIV.nadawanie DIV.infobox DIV {
     display: block;
     margin-bottom: 12px;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    background: url(../images/kontakt_phone.png) 0 top no-repeat;
+    background: url(images/kontakt_phone.png) 0 top no-repeat;
     padding-left: 50px;
     height: 25px
 }
 
 #content .kontakt .phone .phone.phone2 {
-    background: url(../images/kontakt_phone2.png) 0 top no-repeat
+    background: url(images/kontakt_phone2.png) 0 top no-repeat
 }
 
 #content .kontakt .phone .talk {
@@ -9832,7 +9832,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 #content .kontakt #contactbox {
-    background: url(../images/zosia-2.png) right bottom no-repeat;
+    background: url(images/zosia-2.png) right bottom no-repeat;
     padding-bottom: 195px
 }
 
@@ -9943,7 +9943,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .error-page {
-    background: url(../images/korzysci-b2b-zosia.png) right bottom no-repeat
+    background: url(images/korzysci-b2b-zosia.png) right bottom no-repeat
 }
 
 .error-page h1 {
@@ -9979,7 +9979,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .logowanie {
-    background: url(../images/korzysci-b2b-zosia.png) right bottom no-repeat
+    background: url(images/korzysci-b2b-zosia.png) right bottom no-repeat
 }
 
 .logowanie p {
@@ -10042,7 +10042,7 @@ DIV.nadawanie DIV.infobox DIV {
     height: 130px;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(../images/status-icon-1.png)
+    background-image: url(images/status-icon-1.png)
 }
 
 .znajdz-paczke .status .text {
@@ -10104,7 +10104,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-0 .icon {
-    background-image: url(../images/status-icon-0.png)
+    background-image: url(images/status-icon-0.png)
 }
 
 .znajdz-paczke .status-1 {
@@ -10120,7 +10120,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-1 .icon {
-    background-image: url(../images/status-icon-1.png)
+    background-image: url(images/status-icon-1.png)
 }
 
 .znajdz-paczke .status-2 {
@@ -10136,7 +10136,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-2 .icon {
-    background-image: url(../images/status-icon-2.png)
+    background-image: url(images/status-icon-2.png)
 }
 
 .znajdz-paczke .status-3 {
@@ -10152,7 +10152,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-3 .icon {
-    background-image: url(../images/status-icon-3.png)
+    background-image: url(images/status-icon-3.png)
 }
 
 .znajdz-paczke .status-4 {
@@ -10168,7 +10168,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-4 .icon {
-    background-image: url(../images/status-icon-4.png)
+    background-image: url(images/status-icon-4.png)
 }
 
 .znajdz-paczke .status-5 {
@@ -10184,7 +10184,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-5 .icon {
-    background-image: url(../images/status-icon-5.png)
+    background-image: url(images/status-icon-5.png)
 }
 
 .znajdz-paczke .status-6 {
@@ -10200,7 +10200,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-6 .icon {
-    background-image: url(../images/status-icon-6.png)
+    background-image: url(images/status-icon-6.png)
 }
 
 .znajdz-paczke .status-7 {
@@ -10216,7 +10216,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-7 .icon {
-    background-image: url(../images/status-icon-7.png)
+    background-image: url(images/status-icon-7.png)
 }
 
 .znajdz-paczke .status-8 {
@@ -10232,7 +10232,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-8 .icon {
-    background-image: url(../images/status-icon-8.png)
+    background-image: url(images/status-icon-8.png)
 }
 
 .znajdz-paczke .status-9 {
@@ -10248,7 +10248,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-9 .icon {
-    background-image: url(../images/status-icon-9.png)
+    background-image: url(images/status-icon-9.png)
 }
 
 .znajdz-paczke .status-10 {
@@ -10264,7 +10264,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-10 .icon {
-    background-image: url(../images/status-icon-10.png)
+    background-image: url(images/status-icon-10.png)
 }
 
 .znajdz-paczke .status-11 {
@@ -10280,7 +10280,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-11 .icon {
-    background-image: url(../images/status-icon-11.png)
+    background-image: url(images/status-icon-11.png)
 }
 
 .znajdz-paczke .status-12 {
@@ -10296,7 +10296,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-12 .icon {
-    background-image: url(../images/status-icon-12.png)
+    background-image: url(images/status-icon-12.png)
 }
 
 .znajdz-paczke .status-13 {
@@ -10312,7 +10312,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-13 .icon {
-    background-image: url(../images/status-icon-13.png)
+    background-image: url(images/status-icon-13.png)
 }
 
 .znajdz-paczke .status-14 {
@@ -10328,7 +10328,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-14 .icon {
-    background-image: url(../images/status-icon-14.png)
+    background-image: url(images/status-icon-14.png)
 }
 
 .znajdz-paczke .status-15 {
@@ -10344,7 +10344,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-15 .icon {
-    background-image: url(../images/status-icon-15.png)
+    background-image: url(images/status-icon-15.png)
 }
 
 .znajdz-paczke .status-16 {
@@ -10360,7 +10360,7 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .znajdz-paczke .status-16 .icon {
-    background-image: url(../images/status-icon-16.png)
+    background-image: url(images/status-icon-16.png)
 }
 
 .znajdz-paczke .box {
@@ -10393,7 +10393,7 @@ DIV.nadawanie DIV.infobox DIV {
     height: 250px;
     width: 60px;
     display: inline-block;
-    background: transparent url(../images/arrow-right.png) center 40px no-repeat
+    background: transparent url(images/arrow-right.png) center 40px no-repeat
 }
 
 .banners IMG {
@@ -10473,12 +10473,12 @@ DIV.nadawanie DIV.infobox DIV {
 }
 
 .modal-body .navi .next {
-    background-image: url(../images/slider-right100.png);
+    background-image: url(images/slider-right100.png);
     right: -20px
 }
 
 .modal-body .navi .prev {
-    background-image: url(../images/slider-left100.png);
+    background-image: url(images/slider-left100.png);
     left: -20px
 }
 
@@ -10543,7 +10543,7 @@ SPAN.error {
     display: block;
     width: 129px;
     height: 40px;
-    background: url("../images/apply_btn.png") left top no-repeat;
+    background: url("images/apply_btn.png") left top no-repeat;
     margin-top: 10px
 }
 
@@ -10558,7 +10558,7 @@ SPAN.error {
 }
 
 .left-float-cont ul LI {
-    background: url(../images/divider-small-white.png) left 5px no-repeat;
+    background: url(images/divider-small-white.png) left 5px no-repeat;
     padding-left: 10px;
     margin-bottom: 10px;
     font-weight: bold;
@@ -10800,7 +10800,7 @@ input[type="color"],
 }
 
 #site-review .modal-body {
-    background: #fff url(../images/site-review-zosia.png) no-repeat 330px 130px;
+    background: #fff url(images/site-review-zosia.png) no-repeat 330px 130px;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif
 }
 
@@ -10857,7 +10857,7 @@ input[type="color"],
 }
 
 #start-popup.review .modal-body {
-    background: #fff url(../images/start-popup-review-zosia.png) no-repeat 330px 130px;
+    background: #fff url(images/start-popup-review-zosia.png) no-repeat 330px 130px;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif
 }
 
@@ -10889,7 +10889,7 @@ input[type="color"],
 }
 
 #start-popup.nokaut .modal-body {
-    background: #ffd533 url(../images/start-popup-nokaut-bg.gif) repeat-x left top;
+    background: #ffd533 url(images/start-popup-nokaut-bg.gif) repeat-x left top;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     height: auto
 }
@@ -11004,7 +11004,7 @@ A.ret-mod {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('../images//partnerzy_bg.png') center center no-repeat;
+    background: url('images//partnerzy_bg.png') center center no-repeat;
     background-size: 100%
 }
 

@@ -120,15 +120,16 @@
             </div>
             -->
             <!-- END SUBMENU -->
-        
+        </div>
         <!-- CONTENT -->
         <div class="container   " id="main-container">
-            <div id="contentwrapper">
-                <div class="" id="">
-                    <div id="content">
+            <!-- div id="contentwrapper">
+                <div class="" id="" -->
+                    <div class="row" id="content">
+ 
+                        <div class="span16" id="narrow-content"> 
 
-                        <div class="span12" id="narrow-content">
-                                <div class="span12 module-304 " id="">
+                                <div class="span12 module-304" id="">
                                     <h1>Como retirar uma encomenda?</h1> 
                                 </div>
                             <!-- div class="row" -->
@@ -137,7 +138,7 @@
                                     <div class="popupbox">
                                         <a class="pop" id="popc305" href="#" rel="popover">
                                             <p>Compre online
-                                                <br>e selecione retirada no <i>Click&Collect</i></p>
+                                                e selecione retirada no Click&Collect</p>
                                         </a>
                                         <div class="popup hide" id="popc305c">
                                             <div class="popupbg"></div>
@@ -150,7 +151,7 @@
                                     <span class="icon"><img src="full_picture/91" border="0" /></span>
                                     <div class="popupbox">
                                         <a class="pop" id="popc306" href="#" rel="popover">
-                                            <p>Receba mensagem com o código de rastreamento e o código para retirada</p>
+                                            <p>Receba mensagem com o código de rastreamento e de retirada</p>
                                         </a>
                                         <div class="popup hide" id="popc306c">
                                             <div class="popupbg"></div>
@@ -163,12 +164,11 @@
                                     <span class="icon"><img src="full_picture/92" border="0" /></span>
                                     <div class="popupbox">
                                         <a class="pop" id="popc307" href="#" rel="popover">
-                                            <p>Retire sua encomenda no Click&Collect escolhido
-                                                <br>e desfrute da sua compra </p>
+                                            <p>Retire sua encomenda no Click&Collect escolhido. Pronto!</p>
                                         </a>
                                         <div class="popup hide" id="popc307c">
                                             <div class="popupbg"></div>
-                                            <p>Quando sua encomenda for armazenada no terminal Click&Collect escolhido, você será imediatamente notificado por mensagem de texto e/ou email e receberá também o código para retirada. Sua encomenda estará esperando por você no terminal Click&Collect. Viu como é fácil ?!</p>
+                                            <p>Quando sua encomenda for armazenada no terminal Click&Collect escolhido, você será imediatamente notificado por mensagem de texto e/ou email e receberá também o código para retirada. Sua encomenda estará esperando por você no terminal Click&Collect. Viu como é fácil?!</p>
                                         </div>
                                     </div>
 
@@ -217,7 +217,7 @@ Receba mensagem com o código de rastreamento e o código para retirada
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="span4 offset4 module-308 centered" id="">
+                                <div class="span4 offset6 module-308 centered" id="">
 
                                     <a href="#infobox-pop-308" role="button" data-toggle="modal" data-id="0" class="more">
                                         <p class="hidden-phone"><img src="full_picture/135" </p></a>
