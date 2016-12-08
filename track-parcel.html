@@ -17,6 +17,7 @@
     <link rel="shortcut icon" href="favicon.ico?v=2" />
 
     <script src="js/inpost-ca.min-f074fc4.js"></script>
+    <script src="js/moment-with-locales.min.js"></script>
 
     <script type="text/javascript">
         var played = 1;
@@ -121,17 +122,13 @@
                     <div class="row" id="content">
 
                         <div class="span12" id="narrow-content">
-
                             <div class="row znajdz-paczke">
-
                                 <div class="span12 centered">
                                     <h1>Rastreie a sua encomenda</h1>
                                 </div>
-
                             </div>
 
                             <div class="row znajdz-paczke">
-
                                 <div class="span6 centered">
                                     <form name="find_parcel" method="post" action="" id="form-find-parcel" role="form">
                                         <div class="form-group">
@@ -140,44 +137,20 @@
                                         </div>
                                         <div class="form-group">
                                             <button type="submit" id="find_parcel_submit" name="find_parcel[submit]" class="btn btn-primary btn-large xxl btn btn-primary">Buscar</button>
-                                        </div>
-                                        <input type="hidden" id="find_parcel__token" name="find_parcel[_token]" class="form-control" value="9NMFyxaSwiAmPsOmDmOTgrIXvcck6zAxht8z_63o660">
+                                        </div>                                        
                                     </form>
-
+                                    <div id="results"></div>
                                 </div>
-                                <div class="span5 offset1">
 
+                                <div class="span5 offset1">
                                     <div>
-                                        <h2>&nbsp;</h2>
-                                        <h4>&nbsp;</h4>
-                                        <!--
-<script src="http://cdn.dev.skype.com/uri/skype-uri.js" type="text/javascript"></script>
-<div id="button-skype" class="pull-left">
-<script type="text/javascript">// <![CDATA[
-Skype.ui({
-        "name": "call",
-        "element": "button-skype",
-        "participants": ["inpostUK"],
-        "imageSize": 24,
-        "imageColor": "blue"
-      });
-// ]]></script>
-</div>
--->
-                                        <p>&nbsp;</p>
                                         <div class="clearfix">&nbsp;</div>
                                         <h4>SAC - Inpost do Brasil</h4>
                                         <div class="phone"><span class="phone">(21) 3942-1247 <br /></span></div>
-                                        <!-- p class="smaller">The cost of calling from a landline is at
-                                            <br />local rates. When calling by cellphone, call charges
-                                            <br />may vary depending on provider.
-                                            <br />Please check your contract for details.</p -->
                                     </div>
                                     <div class="hidden-phone"><img src="full_picture/58" alt="" /></div>
                                 </div>
-
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -272,15 +245,17 @@ Skype.ui({
 
                     <div class="row">
                         <div class="span4">
-                            <div class="copy">&copy; 2016 InPost Canada Inc.</div>
+                            <div class="copy">&copy; 2016 InPost Brasil</div>
                         </div>
+                        <!--
                         <div class="span4 centered">
                             <div class="phone">1-84-GO-INPOST</div>
                         </div>
+                        -->
                     </div>
                     <div class="row">
                         <div class="span12">
-                            <p class="webmaster text-center">To report a fault or other technical issue on this website email <a href="mailto:webmaster@inpost24.com">webmaster@inpost24.com</a></p>
+                            <p class="webmaster text-center">To report a fault or other technical issue on this website email <a href="mailto:webmaster@inpost.com.br">webmaster@inpost.com.br</a></p>
                         </div>
                     </div>
                 </div>
@@ -290,12 +265,66 @@ Skype.ui({
     <!-- END FOOTER -->
 
     <script>
+
+        translate_status = function(status){
+            translation = '';
+            switch(status){
+                case 'CREATED':
+                    translation='MANIFESTADO';
+                    break;
+                case 'SENT':
+                    translation='Coletado pela transportadora';                    
+                    break;
+                case 'INTRANSIT':
+                    translation='Em transito';                    
+                    break;                    
+                case 'STORED':
+                    translation='Depositada';
+                    break;                    
+                case 'AVIZO':
+                    translation='Lembrete de retirada enviado';                    
+                    break;                                        
+                case 'Prazo expirado':
+                    translation='';                    
+                    break;                    
+                case 'DELIVERED':
+                    translation='Entregue';                    
+                    break;                    
+                case 'MISSING':
+                    translation='Não encontrada';                    
+                    break;                    
+                case 'CLAIMED':
+                    translation='Bloqueada';
+                    break;                    
+                case 'RETURNEDTOAGENCY':
+                    translation='Recolhida pelo entregador';                    
+                    break;                    
+                case 'DELIVEREDTOAGENCY':
+                    translation='Retornou para a transportadora';                    
+                    break;                    
+                case 'RETURNEDTOSENDER':
+                    translation='Devolvida ao remetente';
+                    break;                    
+                case 'OVERSIZED':
+                    translation='Encomenda grande demais';
+                    break;                    
+                case 'CANCELLED':
+                    translation='Cancelada';                    
+                    break;                    
+
+                default:
+                    translation=status;
+                    break;
+
+            }
+            return translation;            
+        };
         $(document).ready(function() {
             $.validator.addMethod("regex", function(value, element) {
                     var re = new RegExp('^[0-9a-zA-Z]*$');
                     return this.optional(element) || re.test(value);
                 },
-                "Only alphanumeric values allowed"
+                "Apenas caracteres alphanuméricos são permitidos."
             );
             $('#form-find-parcel').validate({
                 errorElement: 'span',
@@ -307,18 +336,29 @@ Skype.ui({
                 },
                 messages: {
                     "find_parcel[parcel_number]": {
-                        required: "required"
+                        required: "Informe o código da sua encomenda"
                     }
                 }
             });
 
-            //creating querystring
-            var link = '/en/track-parcel';
-            $("#find_parcel_submit").click(function() {
+            //
+            var link = 'https://api.inpostbra.com.br/public/v1/parcels/';
+            $("#find_parcel_submit").click(function(e) {
+                e.preventDefault();
+                $( "#results" ).empty();
                 if ($("#form-find-parcel").valid()) {
+                    
                     parcels = $('#find_parcel_parcel_number').val();
-                    link = link + '?parcel=' + parcels;
-                    $("#form-find-parcel").prop('action', link);
+                    url = link + parcels;
+                    $.get(url, function(data){
+                        console.log(data.parcelCode);
+                        $.each(data.parcelHistory, function(key, value){
+                            status = "<div class='span12'><div class='span3'>"+  moment(value.statusUpdatedAt).format('DD/MM/YYYY hh:mm') +"</div> <div class='span4 text-left'>"+ translate_status(value.status) +'</div></div>'
+                            $( "#results" ).append( status );
+                        });
+                        
+
+                    })  
                 }
             })
 
