@@ -38,7 +38,7 @@
                     <div class="container">
 
                         <!-- MENU -->
-                        <div class="row" id="">
+                         <div class="row" id="">
                             <div class="span2 logo">
 
                                 <a href="/" id="logo">
@@ -72,24 +72,24 @@
                                     <ul class="nav nav-pills  lang-en" i -->
 
                                         <li id="mm58">
-                                            <a href=comofunciona target="_self"><span class="maintitle">COMO</span><span class="subtitle">funciona? </span></a>
+                                            <a href=comofunciona.html target="_self"><span class="maintitle">COMO</span><span class="subtitle">funciona? </span></a>
                                         </li>
 
                                         <li id="mm58">
-                                            <a href=where-is-your-locker target="_self"><span class="maintitle">LOCALIZE </span><span class="subtitle">seu locker </span></a>
+                                            <a href=where-is-your-locker.html target="_self"><span class="maintitle">LOCALIZE </span><span class="subtitle">seu locker </span></a>
                                         </li>
 
                                         <li id="mm161">
-                                            <a href=track-parcel target="_self"><span class="maintitle">Rastrear</span><span class="subtitle">seu pacote </span></a>
+                                            <a href=track-parcel.html target="_self"><span class="maintitle">Rastrear</span><span class="subtitle">seu pacote </span></a>
                                         </li>
 
                                         <li id="mm169">
-                                            <a href=faq target="_self"><span class="maintitle">FAQ </span><span class="subtitle"></span></ai -->
+                                            <a href=faq.html target="_self"><span class="maintitle">FAQ </span><span class="subtitle"></span></ai -->
             </li>
             </ul>                                </div>
                             </div>
                         </div> 
-                        <!-- END MENU -->
+                    <!-- END MENU -->
                     </div>
                 </div>
             </div>
@@ -122,60 +122,15 @@
 
                         <div class="span12" id="narrow-content">
 
-                            <div class="row znajdz-paczke">
-
-                                <div class="span12 centered">
-                                    <h1>Rastreie a sua encomenda</h1>
-                                </div>
-
+                            <div class="row">
+                                <div class="span12 module-315 " id="">
+                                    <h1>Encontre o terminal Inpost mais perto de você&nbsp;<br /><span class="subtitle">Digite o seu código postal ou o nome da sua cidade</span></h1> </div>
                             </div>
-
-                            <div class="row znajdz-paczke">
-
-                                <div class="span6 centered">
-                                    <form name="find_parcel" method="post" action="" id="form-find-parcel" role="form">
-                                        <div class="form-group">
-                                            <label class="control-label required" for="find_parcel_parcel_number">Número do Pacote</label>
-                                            <input type="text" id="find_parcel_parcel_number" name="find_parcel[parcel_number]" required="required" id="find_parcels_input" class="form-control">
-                                        </div>
-                                        <div class="form-group">
-                                            <button type="submit" id="find_parcel_submit" name="find_parcel[submit]" class="btn btn-primary btn-large xxl btn btn-primary">Buscar</button>
-                                        </div>
-                                        <input type="hidden" id="find_parcel__token" name="find_parcel[_token]" class="form-control" value="9NMFyxaSwiAmPsOmDmOTgrIXvcck6zAxht8z_63o660">
-                                    </form>
-
+                            <div class="row">
+                                <div class="span12 module-316 " id="">
+                                    <iframe frameborder="0" style="width:983px; height:758px; margin:0px auto;" src="http://geowidget.inpost.com.br"></iframe>
+                                    <!-- iframe frameborder="0" style="width:983px; height:758px; margin:0px auto;" src="http://geowidget.inpost.com.br"></iframe -->
                                 </div>
-                                <div class="span5 offset1">
-
-                                    <div>
-                                        <h2>&nbsp;</h2>
-                                        <h4>&nbsp;</h4>
-                                        <!--
-<script src="http://cdn.dev.skype.com/uri/skype-uri.js" type="text/javascript"></script>
-<div id="button-skype" class="pull-left">
-<script type="text/javascript">// <![CDATA[
-Skype.ui({
-        "name": "call",
-        "element": "button-skype",
-        "participants": ["inpostUK"],
-        "imageSize": 24,
-        "imageColor": "blue"
-      });
-// ]]></script>
-</div>
--->
-                                        <p>&nbsp;</p>
-                                        <div class="clearfix">&nbsp;</div>
-                                        <h4>SAC - Inpost do Brasil</h4>
-                                        <div class="phone"><span class="phone">(21) 3942-1247 <br /></span></div>
-                                        <!-- p class="smaller">The cost of calling from a landline is at
-                                            <br />local rates. When calling by cellphone, call charges
-                                            <br />may vary depending on provider.
-                                            <br />Please check your contract for details.</p -->
-                                    </div>
-                                    <div class="hidden-phone"><img src="full_picture/58" alt="" /></div>
-                                </div>
-
                             </div>
 
                         </div>
@@ -211,6 +166,7 @@ Skype.ui({
                     <div class="row">
 
                         <!-- FOOTER MENU -->
+                        <!-- 
                         <div class="span10">
                             <div id="menu-footer">
 
@@ -261,7 +217,7 @@ Skype.ui({
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- END FOOTER MENU -->
 
                         <div class="span2">
@@ -289,42 +245,20 @@ Skype.ui({
     </div>
     <!-- END FOOTER -->
 
-    <script>
-        $(document).ready(function() {
-            $.validator.addMethod("regex", function(value, element) {
-                    var re = new RegExp('^[0-9a-zA-Z]*$');
-                    return this.optional(element) || re.test(value);
-                },
-                "Only alphanumeric values allowed"
-            );
-            $('#form-find-parcel').validate({
-                errorElement: 'span',
-                rules: {
-                    "find_parcel[parcel_number]": {
-                        required: true,
-                        regex: true
-                    }
-                },
-                messages: {
-                    "find_parcel[parcel_number]": {
-                        required: "required"
-                    }
-                }
-            });
-
-            //creating querystring
-            var link = '/en/track-parcel';
-            $("#find_parcel_submit").click(function() {
-                if ($("#form-find-parcel").valid()) {
-                    parcels = $('#find_parcel_parcel_number').val();
-                    link = link + '?parcel=' + parcels;
-                    $("#form-find-parcel").prop('action', link);
-                }
-            })
-
-        });
+<!--
+    <script type="text/javascript">
+        var _smid = "p1xgyhrr798sekop";
+        var _smclientId = "";
+        (function() {
+            var sm = document.createElement('script');
+            sm.type = 'text/javascript';
+            sm.async = true;
+            sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'app2.salesmanago.pl/static/sm.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(sm, s);
+        })();
     </script>
-<!-- 
+ 
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
