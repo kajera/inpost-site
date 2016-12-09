@@ -8275,7 +8275,7 @@ HR {
 }
 
 #footer {
-    position: relative;
+    position: fixed;
     z-index: 44;
     background: #191919;
     height: 64px;
