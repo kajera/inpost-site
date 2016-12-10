@@ -205,7 +205,7 @@ a.btn.gold:hover {
 }
 
 .sprite {
-    background-image: url(images/minisite/spritesheet.png);
+    background-image: url(/images/minisite/spritesheet.png);
     background-repeat: no-repeat;
     display: block
 }
