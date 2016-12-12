@@ -12,11 +12,11 @@
     <title>InPost Brasil</title>
     <meta name="description" content="Uma nova e conveniente maneira de retirar encomendas nas suas compras online, por meio de uma rede de terminais de auto-atendimento com funcionamento 24/7" />
 
-    <link rel="stylesheet" href="css/inpost-ca.min-5589a4e.css" />
+    <link rel="stylesheet" href="/css/inpost-ca.min-5589a4e.css" />
 
-    <link rel="shortcut icon" href="favicon.ico?v=2" />
+    <link rel="shortcut icon" href="/favicon.ico?v=2" />
 
-    <script src="js/inpost-ca.min-f074fc4.js"></script>
+    <script src="/js/inpost-ca.min-f074fc4.js"></script>
 
     <script> 
     $(function(){
@@ -28,37 +28,33 @@
 </head>
 
 <body class="" id="startbody">
-
     <div  class="underHandF">
         <div id="header"></div>
 
         <!-- CONTENT -->
         <div class="container" id="main-container">
-            <div >
-                <div class="">
+
                     <div class="row" id="content">
 
                         <div class="span12" id="narrow-content">
 
                             <div class="row">
-                                <div class="span12 module-304 " >
-                                    <h1>Como retirar uma encomenda?</h1> 
+                                <div class="span12 module-304 " id="" >
+                                    <h1>Como retirar uma encomenda</h1> 
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="span4 module-305 korzysci-b2c hidden-phone" >
-                                    <span class="icon"><img src="full_picture/90" border="0" alt="Selecione Retirar no Click & Collect"/></span>
+                                <div class="span4 module-305 korzysci-b2c hidden-phone" id="">
+                                    <span class="icon"><img src="/full_picture/90" border="0" /></span>
                                     <div class="popupbox">
                                         <a class="pop" id="popc305" href="#" rel="popover" >
-                                            Compre online
-                                            <br>e selecione retirada no Click&Collect
+                                            <p>Compre online
+                                            <br>e selecione retirada no Click&Collect</p>
 
                                         </a> 
                                         <div class="popup hide" id="popc305c">
                                             <div class="popupbg"></div>
-                                            <p>
-                                                Escolha seus produtos e quando for fechar o pedido, selecione Click&Collect como seu método de entrega preferido. Escolha o terminal Click&Collect que for mais perto ou conveniente para você.
-                                            </p>
+                                            <p>Escolha seus produtos e quando for fechar o pedido, selecione Click&Collect como seu método de entrega preferido. Escolha o terminal Click&Collect que for mais perto ou conveniente para você.
                                         </div>
                                     </div>
                                 </div>
@@ -70,7 +66,7 @@
                                         </a>
                                         <div class="popup hide" id="popc306c">
                                             <div class="popupbg"></div>
-                                            <p>Você será notificado por email e/ou mensagem de texto sobre o andamento da entrega de sua encomenda, recebendo um código para rastreamento.</p>
+                                            <p>Você será notificado por email e/ou mensagem de texto sobre o andamento da entrega de sua encomenda, recebendo um código para rastreamento.
                                         </div>
                                     </div>
                                 </div>
@@ -79,14 +75,12 @@
                                     <div class="popupbox">
                                         <a class="pop" id="popc307" href="#" rel="popover">
                                             <p>
-                                                Retire sua encomenda no Click&Collect <br>e desfrute da sua compra 
+                                                Retire sua encomenda no Click&Collect <br>e pronto! 
                                             </p>
                                         </a>
                                         <div class="popup hide" id="popc307c">
                                             <div class="popupbg"></div>
-                                            <p>
-                                                Quando sua encomenda for armazenada no terminal Click&Collect escolhido, você será imediatamente notificado por mensagem de texto e/ou email e receberá também o código para retirada. Sua encomenda estará esperando por você no terminal Click&Collect. Viu como é fácil ?!
-                                            </p>
+                                            <p>Quando sua encomenda for armazenada no terminal Click&Collect escolhido, você será imediatamente notificado por mensagem de texto e/ou email e receberá também o código para retirada. Sua encomenda estará esperando por você no terminal Click&Collect. Viu como é fácil?!
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +96,7 @@
                                 </a>
                             </div>
                         </div>
-                    -->
+                        -->
                     <div class="row">
                         <div class="span6 offset3 module-558 centered" id="collect_modal">
                             <a href="#infobox-pop-558" role="button" data-toggle="modal" data-id="1" class="more">
@@ -122,14 +116,14 @@
 
                     </div>
                 </div>
-            </div>
         </div>
+        <!-- END CONTENT -->
     </div>
-    <!-- END CONTENT -->
+    
     <div id="push"></div>
 
     <div id="footer"></div>
-
+<!--
     <div class="modal hide fade  " id="infobox-pop-308" style="  width: 800px; margin-left:-400px;    height:600px; ">
         <div class="modal-body">
             <button style="z-index: 100; position: relative;" type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
@@ -141,6 +135,7 @@
             </div>
         </div>
     </div>
+-->
     <div class="modal hide fade  " id="infobox-pop-558" style="    height:450px; ">
         <div class="modal-body">
             <button style="z-index: 100; position: relative;" type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
@@ -151,5 +146,23 @@
 
         </div>
     </div>
+
+    <script type="text/javascript">
+        $(function() {
+            $('.popupbox a.pop').mouseover(function() {
+                $(this).next('div.hide').show();
+            });
+            $('.popupbox div.hide').mouseover(function() {
+                $(this).show();
+            });
+            $('.popupbox a.pop').mouseout(function() {
+                $('.popupbox div.hide').hide();
+            });
+            $('.popupbox div.hide').mouseout(function() {
+                $('.popupbox div.hide').hide();
+            });
+        });
+    </script>
+
 </body>
 </html>
